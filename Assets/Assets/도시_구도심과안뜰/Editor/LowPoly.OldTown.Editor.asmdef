@@ -1,0 +1,10 @@
+{
+  "name": "LowPoly.OldTown.Editor",
+  "references": [
+    
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

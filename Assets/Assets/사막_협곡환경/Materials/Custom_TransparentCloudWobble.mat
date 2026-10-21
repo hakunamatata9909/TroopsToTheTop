@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_TransparentCloudWobble
+  m_Shader: {fileID: 4800000, guid: 4a943d079f6a1f648bbb1f7a67d0f688, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _TRANSLUCENCY_ON
+  - _WOBBLE_ON
+  m_InvalidKeywords:
+  - _FLAP_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 9594cf96fa5ae704eaf249107197a12e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BirdFlap: 0
+    - _EnableFlap: 1
+    - _EnableTranslucency: 1
+    - _EnableWobble: 1
+    - _InstanceRandom: 0
+    - _TransAmbient: 1
+    - _TransDirect: 0.77
+    - _TransNormal: 0.25
+    - _TransScattering: 7.4
+    - _TransShadow: 0.45
+    - _TransStrength: 9.5
+    - _WingContrast: 0
+    - _WingPower: 0
+    - _WingSpeed: 0
+    - _WobbleAmplitude: 1
+    - _WobbleScale: 88.22
+    - _WobbleScaleAmp: 0.31
+    - _WobbleSpeed: 0.3
+    m_Colors:
+    - _BaseColor: {r: 0.39554995, g: 0.6343089, b: 0.7735849, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 6aba62ceaef5bc6428087f6898062cbf
+ModelImporter:
+  serializedVersion: 24600
+  internalIDToNameTable:
+  - first:
+      74: 8035052584285935847
+    second: EAThe80_Prop_Toy_RoboDog_01a|EAThe80_Chatter_Telephone_Toy_01aAction
+  - first:
+      74: -6443817716997212555
+    second: EAThe80_Prop_Toy_RoboDog_01a|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: -3012967638352349774
+    second: EAThe80_Prop_Toy_RoboDog_01a|EAThe80_Prop_Toy_Areoplan_01aAction
+  - first:
+      74: -8270944186722053851
+    second: EAThe80_Prop_Toy_RoboDog_01a|EAThe80_Prop_Toy_FlashLIght_01aAction
+  - first:
+      74: 8485610720238525490
+    second: EAThe80_Prop_Toy_RoboDog_01a|EAThe80_Prop_Toy_Jeep_01aAction
+  - first:
+      74: -7528010384719156170
+    second: EAThe80_Prop_Toy_RoboDog_01a|EAThe80_Prop_Toy_RetroRocket_01aAction
+  - first:
+      74: -2677968168688079863
+    second: EAThe80_Prop_Toy_RoboDog_01a|EAThe80_Prop_Toy_RoboDog_01aAction
+  - first:
+      74: -1471350836483415007
+    second: EAThe80_Prop_Toy_RoboDog_01a|EAThe80_Prop_Toy_RoboDog_01aAction.001
+  - first:
+      74: 2084240108665264804
+    second: EAThe80_Prop_Toy_RoboDog_01a|EAThe80_Prop_WaterPistol_01aAction
+  - first:
+      74: -5970991942315494154
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: 8712017145952255541
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 8218401358885732349
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -1598274255266858037
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -1012664745036182687
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 6833174382309916662
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: 1995340088899665022
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -129943257870428837
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2917003143513908913
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 2608640245777107442
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: 3872861763756025696
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -1178682057448197449
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -6457932082637940412
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 3690696611967828211
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: 89849901145509788
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -4770437726141988035
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 5765960555497858075
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 2952441047033846319
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5044702227372340470
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 3868022903469552074
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -9038451501529468209
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -9169226769209268941
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 546357541282920609
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 8401880200094390766
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -4979081848737559126
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 8823638696310390030
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -4731540435349364421
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7991389740120519031
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 259705110422138459
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 9222816288571040378
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 8703388422155723969
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -5932570218642969212
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 7984810204901986480
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -4717066263241104500
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -6973005079965247850
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 5721835625739803128
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7858432320852750549
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -2155201736453280616
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -3530723089164645557
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: 1403247871967554163
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 2672824842046002226
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -8734114505166284360
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 358224529862394203
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -6459008919369268316
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2737868053167564570
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6392688148050431495
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 4818549047069944492
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -9099534032391530114
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 791392690382651979
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 1745082145601431503
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 633039825638353439
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: 1463985469008630913
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -4771439820974406853
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -6855730011184967112
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 6273056422031087057
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: -1093712375619908498
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2773840807180720285
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 3239853538799221107
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -9134488437618435608
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -5773495732324944005
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -63173054026876868
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 4921186746591010507
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -6674735881349837502
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: -1097490694418010192
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -8330888676862781124
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4839067751226771733
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 4082195403290334288
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 8542851424913340408
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -4127713531009220075
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2550869959240618832
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -3890641532260653276
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 8632337679182751311
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -284016707247064510
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -537277378855362742
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3312263729172815825
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -704455514353918222
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5304983690416236947
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 7187332720397725056
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -8625566742022424863
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -7055326611903222306
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 1310968078718529888
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -1457537016116680648
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -3754535628373379053
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 5559497214110959546
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 8528390919454013527
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 6725881420697814539
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 7738961576496902529
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 2594193622845490942
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 1172745331618872870
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -6090723732990115430
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7879466587249430302
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 8629111456277599329
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -6705938462374589729
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -5589269969601686443
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 78154518942318232
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 7309517059286107659
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -4751060366393510106
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -9168807998104414808
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -4951979373732714035
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 1924571448150324157
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 1154979982637044553
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 9195775889187011903
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2945052653011459021
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 5460920599941839968
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 821411462650827540
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -514611172923705765
+    second: EAThe80_Prop_Toy_RoboDog_01a|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 6524830441157471334
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4160671289534672536
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -8226697414985404206
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 380767173480983418
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -302380551845790644
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4788428150568459293
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -4176103421277781353
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -7457499535606453880
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -5691867528878327623
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: 8395391224199584553
+    second: EAThe80_Prop_Toy_RoboDog_01a|wall_rocks_01_LOD4|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EAThe80_Texture
+    second: {fileID: 2100000, guid: c04f37cf5a52a9942a20d54fba639f59, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    preBakeConvexCollisionMesh: 0
+    preBakeTriangleCollisionMesh: 0
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 1
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

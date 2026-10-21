@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 221ea76c341d54d8991b7fc8cb6451fc
+ModelImporter:
+  serializedVersion: 24501
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Props_1"
+    second: {fileID: 2100000, guid: 3f356164e3645340b188d433c029818b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+    searchTexturesGlobally: 1

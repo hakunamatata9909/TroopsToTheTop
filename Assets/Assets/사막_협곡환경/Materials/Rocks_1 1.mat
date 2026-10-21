@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rocks_1 1
+  m_Shader: {fileID: 4800000, guid: a72961b2e7db0e6409de2ad320181119, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _DEBUG_NONE
+  - _GRADIENTSPACE_WORLD
+  - _GRADIENT_ON
+  - _STYLIZED_LIT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 42748b294e8685341bc62f36f2552494, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMask:
+        m_Texture: {fileID: 2800000, guid: 7e851ba2ab3df3941aa7933c094a4351, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseNormal:
+        m_Texture: {fileID: 2800000, guid: 998d4955065840d4f9c620c84917e8fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GradientNoiseMap:
+        m_Texture: {fileID: 2800000, guid: 7ec2cabb34fe3244684d2719e3661e06, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RMap:
+        m_Texture: {fileID: 2800000, guid: 6dbe4d7cf452d0545a8f11b746ac9ec2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RMask:
+        m_Texture: {fileID: 2800000, guid: c128cfdf11e4de94faaa13d2a6868389, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RNormal:
+        m_Texture: {fileID: 2800000, guid: 6dfa471391d852b44b259c529c39a772, type: 3}
+        m_Scale: {x: 22, y: 22}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BaseNormalScale: 1
+    - _BaseSmoothness: 0
+    - _BaseTiling: 1
+    - _BaseUseWorldUV: 0
+    - _BlendBiasG: 0.5
+    - _BlendBiasR: 0.522
+    - _BlendContrastG: 10
+    - _BlendContrastR: 24.1
+    - _Debug: 0
+    - _DetailStrength: 1
+    - _DetailTarget: 0
+    - _DetailTiling: 10
+    - _EnableDetailLayer: 0
+    - _EnableGradient: 1
+    - _EnableLayerG: 0
+    - _EnableLayerR: 0
+    - _EnableStylized: 1
+    - _GNormalScale: 1
+    - _GSmoothness: 1
+    - _GTiling: 1
+    - _GUseWorldUV: 0
+    - _GradientBottomIntensity: 0.275
+    - _GradientBottomPos: 7.7
+    - _GradientBottomSoftness: 4.42
+    - _GradientNoiseScale: 1
+    - _GradientNoiseStrength: 0
+    - _GradientSpace: 1
+    - _GradientTopIntensity: 0.22
+    - _GradientTopPos: 3.72
+    - _GradientTopSoftness: 5
+    - _OcclusionStrength: 1
+    - _RNormalScale: 0.86
+    - _RSmoothness: 0.01
+    - _RTiling: 1
+    - _RUseWorldUV: 0
+    - _ShadowFlatness: 0.311
+    - _WorldUVScale: 0.39
+    m_Colors:
+    - _BaseColor: {r: 1, g: 0.9160779, b: 0.76037735, a: 1}
+    - _DetailColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GradientBottomColor: {r: 0.8490566, g: 0.60865015, b: 0.26753289, a: 1}
+    - _GradientTopColor: {r: 0.90188676, g: 0.3991721, b: 0.19569229, a: 1}
+    - _GroundColor: {r: 0.85660374, g: 0.7701352, b: 0.68366677, a: 1}
+    - _RColor: {r: 0.96981126, g: 0.9548101, b: 0.9496831, a: 1}
+    - _SkyColor: {r: 0.9622642, g: 0.92039794, b: 0.7825205, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

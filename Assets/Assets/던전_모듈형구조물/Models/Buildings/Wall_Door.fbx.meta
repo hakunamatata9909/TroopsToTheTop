@@ -1,0 +1,51 @@
+fileFormatVersion: 2
+guid: 0ef0b594f86152a08f156d9cea556df6
+ModelImporter:
+  serializedVersion: 24501
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Wall"
+    second: {fileID: 2100000, guid: fa615fdd6b0355a08fd6436cfcd6a3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bottom"
+    second: {fileID: 2100000, guid: fa615fdd6b0355a08fd6436cfcd6a3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Top"
+    second: {fileID: 2100000, guid: fa615fdd6b0355a08fd6436cfcd6a3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bricks"
+    second: {fileID: 2100000, guid: fa615fdd6b0355a08fd6436cfcd6a3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Wood"
+    second: {fileID: 2100000, guid: fa615fdd6b0355a08fd6436cfcd6a3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Wood 3"
+    second: {fileID: 2100000, guid: fa615fdd6b0355a08fd6436cfcd6a3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Wood 2"
+    second: {fileID: 2100000, guid: fa615fdd6b0355a08fd6436cfcd6a3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "MetalBars"
+    second: {fileID: 2100000, guid: fa615fdd6b0355a08fd6436cfcd6a3bb, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+    searchTexturesGlobally: 1

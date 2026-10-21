@@ -1,0 +1,1843 @@
+fileFormatVersion: 2
+guid: 70a03ed702a404d4a9e68e1f8988ed3f
+ModelImporter:
+  serializedVersion: 24600
+  internalIDToNameTable:
+  - first:
+      74: -6489056633385456742
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: -4875120967884766601
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.001
+  - first:
+      74: -3231922546835172803
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.002
+  - first:
+      74: 5829183368279954168
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.003
+  - first:
+      74: 7609508677445273651
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.004
+  - first:
+      74: -8600213257511580374
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.005
+  - first:
+      74: -1851703234251111295
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.006
+  - first:
+      74: -7024100291431346140
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.007
+  - first:
+      74: -8558223116934729366
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.008
+  - first:
+      74: 1563589545423154094
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.009
+  - first:
+      74: 5275743571445616112
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.010
+  - first:
+      74: 199978697083290234
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.011
+  - first:
+      74: -2184175988756533422
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.012
+  - first:
+      74: -1830934570377565377
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.013
+  - first:
+      74: 6657285151345197179
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.014
+  - first:
+      74: -5833582538958210430
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.015
+  - first:
+      74: 3460280305717201309
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.016
+  - first:
+      74: 448886740909657135
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.017
+  - first:
+      74: 3365182856335170023
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.018
+  - first:
+      74: 7130388831632279268
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.019
+  - first:
+      74: 4094792071941421045
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.020
+  - first:
+      74: -3493927322841670406
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.021
+  - first:
+      74: -4395299797472182912
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_Skateboard_02aAction.022
+  - first:
+      74: 7103338140836623392
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_WaterPistol_01aAction
+  - first:
+      74: 6343319182898372835
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_WaterPistol_01aAction.001
+  - first:
+      74: 5624781134018810974
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_WaterPistol_01aAction.002
+  - first:
+      74: -7327353673156404755
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|EAThe80_Prop_WaterPistol_01aAction.003
+  - first:
+      74: -952915059583592239
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: -4274004493206785263
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3099696254967791199
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -7320055841310567657
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -3220857321991725404
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 4240817349104994402
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: 8101360685147718360
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 3991211762059129827
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2751794458070087447
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 1208450179526937113
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: -8978429661063399655
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -4218632919484809589
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -1688314433331027440
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 2107690510256157845
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: -6155582038473388600
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -2208576193740353092
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 5463270456574359365
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1375658546732690714
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 8551102470542417436
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -496901968482138306
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -4858565458628931905
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 5568822568588169852
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -964194319304652798
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 5964750377991787714
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: 461222474225829695
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 6428185578579531092
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 3995995671990529229
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7042502628517867012
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -2896627367820493014
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -756247833100652630
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: -8604896955923163433
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 4125910115954186939
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -801408933384162953
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 3832370450447890174
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -486087396754604735
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -3559123821645379188
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6880722427685185
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -7947384892157896079
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -7685763583120025169
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: 9030331353239905778
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 1033453573387180592
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 8041154824819230102
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -1848747304159494617
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -6243672598339600012
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 5522542597428751516
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -5135968284764202172
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2397377031172051789
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 8440905731723431349
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 5186950102348536927
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 2263494895591701604
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 2854487845646083299
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7786500314001698490
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -7733992048320696972
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4831352063053858889
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -5865097086323998587
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: -9109023500323037823
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7038036507047408395
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 5847036515682365352
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 244478372954661920
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -4247718758347419031
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7097786743698047814
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 3482765172835474659
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 3791047721567001278
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: 5767214478660022829
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 4182056733573353967
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -5745432735541199451
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -4323114719039452759
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2413141009339485906
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -8902441572955169918
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -382702129064984248
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 2058585169123263657
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -4563827124330922277
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 2171786081878134704
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -1993553782040810615
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 6377897489398613734
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -7384632661955773242
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -3305329385737815941
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -3697587842718086841
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -1387217111923602792
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 1408904267219767351
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -8600477801753098570
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -3009552389415873493
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 6756615819722635507
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -2140128346570511433
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 721578552394312420
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 696111293881067238
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 4037843135903645037
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -8640024079065680456
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -8636536349012016759
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 817293584312304148
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 1284116452918125302
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -5743801270923911633
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 824436092021580194
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -3051467802716978936
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 280636471177063901
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 3397034809294152397
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3696189190151827172
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -7914260065318223743
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -1505046401806419352
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -7573305326912768646
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 1797089886830526759
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -8792912253334796878
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 6258728894080676222
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 4114260258886476033
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -1200149441943288221
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -801903615727783184
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -3499400925737937621
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1677051942807933594
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -6895240645020781491
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 8661053898052249355
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 5709084787044292195
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 9123600241545173527
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 3736287654018499536
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 4023792954789500732
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: 1053240967741752988
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: -3644013290752607788
+    second: EAThe80_Prop_WaterPistol_01a_LOD2|wall_rocks_01_LOD4|Take 001|BaseLayer
+  - first:
+      74: 5712781357089174918
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: 570391407592837229
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.001
+  - first:
+      74: -4992597354214489024
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.002
+  - first:
+      74: 3162680260743127105
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.003
+  - first:
+      74: -5195128536394833308
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.004
+  - first:
+      74: -3063120019681049439
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.005
+  - first:
+      74: 377050032550426333
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.006
+  - first:
+      74: 6722317679525974785
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.007
+  - first:
+      74: 8136241707585116482
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.008
+  - first:
+      74: 8159935789465829894
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.009
+  - first:
+      74: -796676314069787311
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.010
+  - first:
+      74: 2267067516364654328
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.011
+  - first:
+      74: 3132126486739743978
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.012
+  - first:
+      74: 8522082975670646684
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.013
+  - first:
+      74: -2929312925602157907
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.014
+  - first:
+      74: -1119660670505652759
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.015
+  - first:
+      74: -5942923350994402674
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.016
+  - first:
+      74: -6325023740624274808
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.017
+  - first:
+      74: -5196265423589507487
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.018
+  - first:
+      74: -796766379972870045
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.019
+  - first:
+      74: 6821203058868741856
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.020
+  - first:
+      74: -3770811338695914790
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.021
+  - first:
+      74: -2981012043584629689
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_Skateboard_02aAction.022
+  - first:
+      74: -2189076786813412147
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_WaterPistol_01aAction
+  - first:
+      74: 2826195518934203589
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_WaterPistol_01aAction.001
+  - first:
+      74: 5577811399997072225
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_WaterPistol_01aAction.002
+  - first:
+      74: -2508177967327771501
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|EAThe80_Prop_WaterPistol_01aAction.003
+  - first:
+      74: 586346800030046737
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: 4643509927882398624
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -8561638789676442876
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -3383636683864533416
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2548054824453660979
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 824476328100218800
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: 7407327439249591300
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -6149726736549374790
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -8084428945138971937
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -750984264178065106
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: -3780716773470712579
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 9014746816163363247
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 7880726933672973005
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 946963674728518045
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: -5878315068099647894
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -1471514555954192631
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 5934679611048136126
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 7549955487444259333
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 6485298825420382028
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 3243140745132973564
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -3621870846191629101
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 3423046125084671917
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -4423279241052591231
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 45428444516820019
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -2356077192203194129
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -7861598952218908400
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -6216559162168120470
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: -495006790049948774
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -6339193531940441068
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4220979591931933816
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 3318177769405395176
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -3299587719913352870
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -4878243636822372031
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 811504233631550408
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -658906293704896209
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 7753029244552758242
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 3139216937456840148
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 254378260110556670
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -3810535068867206217
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: 1898765273014481580
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -985949449034779882
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -2460138124427376109
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 1009922770001117206
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 4757261118298653817
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 824016865767100578
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 2148158938199023518
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 389059157248283582
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -2412729484897520244
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -2630029028404933432
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -3826655898485749985
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -1574676456655222777
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: -8623862175461146115
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 6676705187448264512
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 6580448317306082722
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 4281029142234000455
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 7668730174935270879
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 5959387093184376646
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -651376364379340357
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 9038130857733668219
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 6396755945783882373
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -1936151876789764129
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 631073914968547008
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 2936016099125617522
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: 48604303860622805
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -7933106710567311405
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3124860250295603251
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -1038482010729843600
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 7095089561031430922
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 4262475820569149262
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 280638876794696277
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 1968163823632865541
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 2394662562842152103
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7729859486775718012
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -5603195083917148923
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -2488070798031808027
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -4309807115013021858
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7591381399551672174
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2665054860986474869
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -6385690708268805107
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2344127170651769094
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -4870887142595284852
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -4099008844262877184
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 1050676610218581581
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1541720880155084670
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -5025860956115348992
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: -2074040565497128583
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -8465331974711584687
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2720704464233675150
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2015419697059046994
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7384325237024353742
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -203723728696435324
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -1136308030074576814
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -3695201443516602495
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -2688230720861207887
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2627067720901540793
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -9189768609888173751
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 1229495833246957747
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -3858812055931267941
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -1875082371272649121
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -1482924792287741840
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 5880608075899608634
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1963508083449294398
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: -6424666885848339080
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -3255708082150858176
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 3787686580882788698
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -4644702022668561041
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 1729303857464136533
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 8061405222841289805
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 650332571597718637
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 3316707955560570740
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 1884143073217830939
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 8959279160193444052
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 2822590987007006817
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 5567036297487431314
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: 8048433357166621796
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: 1242171040120650592
+    second: EAThe80_Prop_WaterPistol_01a_LOD1|wall_rocks_01_LOD4|Take 001|BaseLayer
+  - first:
+      74: 3588488649848406368
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: -2113323773494549487
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.001
+  - first:
+      74: -787668352052499964
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.002
+  - first:
+      74: -5372681894883202141
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.003
+  - first:
+      74: -5652020704630150513
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.004
+  - first:
+      74: -6310577227939827684
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.005
+  - first:
+      74: -8111484033635454522
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.006
+  - first:
+      74: -1044556034966296684
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.007
+  - first:
+      74: -5478157949968235928
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.008
+  - first:
+      74: 5061377350498258118
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.009
+  - first:
+      74: -6168113099369196974
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.010
+  - first:
+      74: -1063742206001949216
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.011
+  - first:
+      74: -801965166137449915
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.012
+  - first:
+      74: 1168840174209139871
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.013
+  - first:
+      74: 485916274152598041
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.014
+  - first:
+      74: 5575230348334385136
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.015
+  - first:
+      74: -7999236312618281364
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.016
+  - first:
+      74: 7365465027685978434
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.017
+  - first:
+      74: 2293917956603715244
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.018
+  - first:
+      74: 588585858058852219
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.019
+  - first:
+      74: 2766094141165504441
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.020
+  - first:
+      74: -7299941142727419686
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.021
+  - first:
+      74: -6135326066170345721
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_Skateboard_02aAction.022
+  - first:
+      74: 1250054371211645896
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_WaterPistol_01aAction
+  - first:
+      74: 9136869436839735248
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_WaterPistol_01aAction.001
+  - first:
+      74: -615286020529461054
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_WaterPistol_01aAction.002
+  - first:
+      74: 7487056078281971914
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|EAThe80_Prop_WaterPistol_01aAction.003
+  - first:
+      74: 3645039942907416091
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: 1219211783512659740
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4609111169000174849
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 7815554919262456390
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 939042281450546161
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -867684412441735239
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: -2895367780876542741
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -1942772417874594383
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 7232732709810568274
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 1797737205637147645
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: -1715180163967577720
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 8248901386859236670
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 804595838619152625
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 8124796477188725085
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: -4130422273862694612
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -5934651270532509737
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -5313482406662308368
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1206510291581610041
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 806425320562877570
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 1315593333323551024
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2613600580471946796
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2855003359911124228
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 3224690051568773069
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -3489028653728804731
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: 6486613103860566347
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -2326981085035152205
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -443089700911929442
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: -343670819971026582
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -6499745615988496332
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 8442693740456725827
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2367718942906995003
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 7907448949588049003
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 3452689564078603520
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6190407824963464693
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -8723367161259361227
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -8650620757950308583
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -4057218827797922823
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -9006602149010087338
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -5532933232377767303
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: -8898609119523792690
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 984287490991062319
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 9090811174717401031
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -2552722800555377934
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -4936312266107868070
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7657059595677805841
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2956855933003855648
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 3017665799635031056
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4996114166335590368
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 2971905795871007703
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -4848891240483834381
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -6381021141484017403
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7869773690670988849
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -5345219669849438797
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -8598316179513923287
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -3725190312475743640
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 7953881226550078661
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2506600462905310747
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 9028340726078114485
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 1367375549056479998
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 6120644370003983682
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 5469083228500505752
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 782473509163684448
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 3638727826620289475
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: 3451768133881472290
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -164733167293333216
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 5838958063592719267
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -772901855559060263
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 1578017635519514093
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7418885061558110010
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 631287218491627762
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 8697046967856557799
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -8455887474725263716
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 839283474630178186
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 3875328299436107931
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4148730406307321226
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 8366149479049056332
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 14310994909580938
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 6812029813669580464
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 7183459610654927983
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -6846953441406451840
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -2420854144551236044
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7875719551870214823
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 5130521462251605747
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 2549598433466878557
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 1430585144013896292
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 4766272319087923811
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2407293372332101409
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3179126677514093248
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -9176620970400392926
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -1487529557370273342
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 2755980922616042244
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 209820406713752276
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4871868609928941311
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 7902180936783824852
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2345365168850126165
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 8952512183671783285
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -5930071026891463759
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -7263536475158769153
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -6396678614067109123
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 6530539949543048769
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 1292500433585934654
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4030791866794466504
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 3071307467491711350
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 9142154177277806863
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 4710561568209634491
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -3123446427847513098
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 1242548557663141322
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 8362279186640191118
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7688575279697491775
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 8255603243541616008
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 5235489487868476576
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -1918201512999830918
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -4361506736694750409
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -7128953828590457133
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: 4506680762801105267
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: -8934194424391727795
+    second: EAThe80_Prop_WaterPistol_01a_LOD0|wall_rocks_01_LOD4|Take 001|BaseLayer
+  - first:
+      74: 8540070202126554976
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: 729015952886158745
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.001
+  - first:
+      74: 8907736256629055518
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.002
+  - first:
+      74: 3159549813637185994
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.003
+  - first:
+      74: 6835246453885096526
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.004
+  - first:
+      74: -5843780609928835799
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.005
+  - first:
+      74: 478535946780980133
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.006
+  - first:
+      74: 4868032970046199754
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.007
+  - first:
+      74: 6235698051134283718
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.008
+  - first:
+      74: 1222094411137418896
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.009
+  - first:
+      74: -5862119197907051401
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.010
+  - first:
+      74: 2660947302356178144
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.011
+  - first:
+      74: -5514719636010341885
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.012
+  - first:
+      74: 2890457020434636729
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.013
+  - first:
+      74: 3129010485320522772
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.014
+  - first:
+      74: -7527670598101864624
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.015
+  - first:
+      74: 3575355280627452805
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.016
+  - first:
+      74: 5855705534121408857
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.017
+  - first:
+      74: 5869948517451185746
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.018
+  - first:
+      74: 2265232460947058748
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.019
+  - first:
+      74: -6919044417940915900
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.020
+  - first:
+      74: -5943796177605448655
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.021
+  - first:
+      74: -130180569678344744
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_Skateboard_02aAction.022
+  - first:
+      74: 1382254843834968315
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_WaterPistol_01aAction
+  - first:
+      74: -1451404992316970288
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_WaterPistol_01aAction.001
+  - first:
+      74: -8729320724991152554
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_WaterPistol_01aAction.002
+  - first:
+      74: 4503308704371542463
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_WaterPistol_01aAction.003
+  - first:
+      74: -1642715125184548664
+    second: EAThe80_Prop_WaterPistol_01a|EAThe80_Prop_WaterPistol_01aAction.004
+  - first:
+      74: 564211927979391522
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: 2164574927065510
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 6424275850369648594
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -1682301679252487619
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 280039615913993974
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2263237018143886184
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: -4669674704972166056
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 8198896405960887253
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 2316160038412806335
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4311636148574451611
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: -6072111579375560667
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 618030583693839558
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 2608322443167658943
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 8870021622684657313
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: -4446239871233998797
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: 5230798517208488090
+    second: EAThe80_Prop_WaterPistol_01a|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -6571436891701605773
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1855481880427352573
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -6401081674555378674
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 2833079199558826829
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 3732456310811966980
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -8082234350427600241
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -3797032104990298217
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 2680357131059769273
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6484158308913265269
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -1239238047478944735
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -1428748449893951586
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: -2494426531593250345
+    second: EAThe80_Prop_WaterPistol_01a|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 5679154597954281346
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 557080745096879222
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 4916689955204245877
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 2108782999166368984
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 8873917210581609527
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -5950815870480363074
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -3265475254200769182
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -6075772343063405956
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 4111029424930410277
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 1683026310253063498
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 5778038942064564168
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: -8169512465552194022
+    second: EAThe80_Prop_WaterPistol_01a|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -748588245135364597
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -9137345733788652003
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5684994693796208669
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 8140018885761949474
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7339460360400366634
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 4275931363565433618
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 7446612990887210936
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -5089644713898078611
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -5071131642779521727
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 4840779988979762356
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 4043854943494258778
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: 6324128859552429619
+    second: EAThe80_Prop_WaterPistol_01a|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -4933092640457826260
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -7155045889034344824
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -8027912781398996404
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: -9123349963515025718
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 925058595114029651
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3754132519303679628
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 1061041258038844688
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4490617110537997244
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -8406271264445502644
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 7213640604142113555
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -9037750293334633032
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7884113833176569027
+    second: EAThe80_Prop_WaterPistol_01a|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 8191146975371772177
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -3491762552262239975
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 7326832384011761927
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5305654431798925741
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -737928272971138507
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3471134086000276045
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -181406173594457801
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -8543504996779051829
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 4909318552560343693
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 8030110112393203403
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4964690315008940294
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -8747325672514816655
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5833208026624466411
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -995825061039642341
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 5659528762753443355
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 6302728031593968277
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -2062603359020378982
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6019896265057127242
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 2809001019654131902
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -7625627642446765040
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 1957450992611067459
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5875390992448682447
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -4648908060800737131
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 3908905499561513125
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 6357133219225203035
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 3485939210716790702
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -1748516953077473680
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 2648503715999919057
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4467970942225264085
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 3172242107642971749
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -3823556253344868823
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 5210775698095653104
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 296238751080841654
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 5938778234655174031
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -2641246678320442144
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -4075262433667880470
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -5611535717372185102
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 535134792871398766
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: -92370823354050840
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2162419754746560138
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 2618915365806510828
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 3185147168328792000
+    second: EAThe80_Prop_WaterPistol_01a|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 5000948327371882653
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 6103427575158822613
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 1177013086516403940
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -5789464260311029363
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 3641626620475405074
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 6688921544698125131
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7457789159679317503
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 9139135530837435028
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -8295649116420003639
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: 7087128242418012498
+    second: EAThe80_Prop_WaterPistol_01a|wall_rocks_01_LOD4|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EAThe80_Texture
+    second: {fileID: 2100000, guid: c04f37cf5a52a9942a20d54fba639f59, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    preBakeConvexCollisionMesh: 0
+    preBakeTriangleCollisionMesh: 0
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 1
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

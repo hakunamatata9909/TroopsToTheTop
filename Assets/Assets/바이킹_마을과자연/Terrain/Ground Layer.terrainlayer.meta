@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c7d3e26d0cac124a866c7862f036909
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261707
+  packageName: Stylized Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Stylized Medieval Kingdom URP/Layers/Ground Layer.terrainlayer
+  uploadId: 609249

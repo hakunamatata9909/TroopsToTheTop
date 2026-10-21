@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BIRD
+  m_Shader: {fileID: 4800000, guid: 4a943d079f6a1f648bbb1f7a67d0f688, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _BIRD_FLAP_ON
+  m_InvalidKeywords:
+  - _FLAP_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BirdFlap: 1
+    - _EnableFlap: 1
+    - _EnableTranslucency: 0
+    - _EnableWobble: 0
+    - _InstanceRandom: 0
+    - _TransAmbient: 0.47
+    - _TransDirect: 0.17
+    - _TransNormal: 0.65
+    - _TransScattering: 2.1
+    - _TransShadow: 0
+    - _TransStrength: 12.4
+    - _WingContrast: 0.3
+    - _WingPower: 0.37
+    - _WingSpeed: 1
+    - _WobbleAmplitude: 1
+    - _WobbleScale: 0.1
+    - _WobbleScaleAmp: -0.2
+    - _WobbleSpeed: 0.202
+    m_Colors:
+    - _BaseColor: {r: 0.19999999, g: 0.19999999, b: 0.19999999, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

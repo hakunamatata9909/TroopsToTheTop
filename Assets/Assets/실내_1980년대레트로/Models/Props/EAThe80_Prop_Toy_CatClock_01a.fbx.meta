@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: 496aba9af5d3f084698dea87e170a2c5
+ModelImporter:
+  serializedVersion: 24600
+  internalIDToNameTable:
+  - first:
+      74: -1253994152065226783
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action
+  - first:
+      74: 4806336952329519087
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action.001
+  - first:
+      74: -342513463127443223
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action.002
+  - first:
+      74: 2109873743667206251
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action.003
+  - first:
+      74: 6229680547045292546
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action.004
+  - first:
+      74: 2943386703723755280
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action.005
+  - first:
+      74: -4071714467331161081
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action.006
+  - first:
+      74: -1775004604517410422
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action.007
+  - first:
+      74: -2844594935042888227
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action.008
+  - first:
+      74: 8474645111778694536
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: -8602832973902544364
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4406651180481116280
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -6450030906267165599
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5522508548125760568
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7033534484644968254
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: 1611840732221886775
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -4597958455911352546
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -5348097011105656808
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 3380739374051355765
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: 2280549811108637923
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 2092654394002710123
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -8089987462266322082
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 8014800835993107040
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: 8146828146581079710
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7160022856892803144
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 3524004573426284461
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 2800290389585581370
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -3600702341349100404
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -6209188968688747494
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 4997919684661619025
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -4791925441051746246
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 5064115741827229988
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7405399671862568752
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -1606229425256074727
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 3270158423089758735
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 7707220895593296632
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: 1196773216985116240
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 4100006548127781909
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4018499341442160664
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5315080783127328623
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 8850454699916424121
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -4290399892162299754
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -6319583851250722410
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -1918234998619701738
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 8942976179996690487
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 8909251670192603163
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -4236344236318640232
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 8545445109041675807
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: 9201300131764261150
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -4208890349705618739
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -5758336343974837257
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 62121031088938054
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -41635002013984479
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 6428900845565282357
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2799572793515158312
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2420036392146402244
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -5602637354395249723
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -3226129881197253619
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 9179472257314084714
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 2770354438494826281
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: 3258245338789679915
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 3212571008929250269
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 777901756220073957
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 327631332731637785
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7093566602694261809
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -1952791198612344206
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2062732809553665707
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 4192004737068324308
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 2352021601903688893
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 4309842570782022971
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 4285973911261787392
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -9214442181765612517
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: 6079379130812148186
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 8203053667222736572
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 667799747857956707
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -8725859850329634761
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7794794079502590434
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 3019409610463644527
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -1453844318630814921
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -6491910437260215858
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 8319368648639820886
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -8986413732939445610
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 3297773777603731622
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -1373874459200972346
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -4780026208762978326
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5051898588490369770
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -8172246625045796540
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6571329054060762645
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 2622212712205275293
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4010983010877458404
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -9001387068361136641
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -2994422671170990906
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 7689669206317627250
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 8501142079863344318
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: -534786453593198760
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2162116914478103237
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -7454243864912522691
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 3724210781385904988
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 1211068804934562859
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -4253557753663241693
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -258629285378210013
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -1678192226346327525
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 7447458849995453713
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5453331819215808479
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -9004212050108337344
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 1532878377615307836
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 3361917724180459032
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4462397404677933768
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7157160241020909172
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -4917095752569772286
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1177967192660881405
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5696070775367300490
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2297790256974134316
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -8396243018502218710
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -586648553115815259
+    second: EAThe80_Prop_Toy_CatClock_01a.001|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6817442799904345082
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3509677607826555314
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 8654401700634001125
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7830422450075016763
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -280574828418463877
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4264755423059746024
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 6812152557968080836
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -137966864509300559
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7147912839986721318
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: 168330193569580208
+    second: EAThe80_Prop_Toy_CatClock_01a.001|wall_rocks_01_LOD4|Take 001|BaseLayer
+  - first:
+      74: 5713199231571286251
+    second: EAThe80_Prop_Toy_CatClock_01a.001|EAThe80_Prop_Toy_CatClock_01a.001Action.009
+  - first:
+      74: 7131240945195479633
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action
+  - first:
+      74: -2409356287427422737
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.001
+  - first:
+      74: 9218465305000321248
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.002
+  - first:
+      74: 764761775779888606
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.003
+  - first:
+      74: 7013671655930692775
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.004
+  - first:
+      74: -1197869958369574067
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.005
+  - first:
+      74: -2536518438216497927
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.006
+  - first:
+      74: 197822413580923375
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.007
+  - first:
+      74: 3059033857695911302
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.008
+  - first:
+      74: 6675020829708045552
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.009
+  - first:
+      74: 886732968994192597
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.010
+  - first:
+      74: -921361786830289517
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: 8783283345947078723
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4712321952498545502
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 7509108038201972811
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2475762993223143019
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2697264058180166538
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: -1504015408981241565
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6471891162452604903
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2729637569155542949
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -6336094469846870769
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: 7603333533782362343
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -326902389145254366
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 8787716906880553403
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -1539876991025874777
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: -2376755929507355826
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -8195518932620516806
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 1050586133104635839
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3787287669267785651
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -1382851437114529591
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 891240101080839164
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 3520072613375019900
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2632209336123119775
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2584290080971097449
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 2620125760140984927
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: 4566263803118982944
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 8158414420554558556
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 5763379702361870864
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7444946679453190089
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -2799430748707367275
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -3899693127095158081
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5603262704724907349
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 6111427592985085669
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -5550446899713668377
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -1138546477305854821
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 6708882097756572449
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -9005612765953263597
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -2219007397067195494
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 433147705496636467
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 5204687685002870233
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: 8546810336993011209
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -9070305384569522002
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -2248312371209454261
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -6450413671315997933
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -8809569526195318620
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 6337958541915211931
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6707446588452075283
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 7456418276940183169
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7558255991336680065
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 4489272775319751327
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 1364637317374321324
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 275120195236819672
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: -2123516055054778093
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -3883544333484749157
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 7014580440111840622
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -1536236705473467640
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2398170768527127115
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 6695834166920957232
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -4139627318852928273
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -5680485516241951328
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 5811288989154684503
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 2742361335960634169
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -7391054976896180522
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 2264806633702472226
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7488301556846251517
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -5769728153862647203
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -2383773999691185123
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 5644140172995689211
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 3331616748248147454
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 1550703491152632682
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -590887379168144710
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 1960501426852339011
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -1917838404825831714
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -8243956661940185472
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 8573437196573224741
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4439523726584260854
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 2506862590538007966
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 801236675263305905
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2349614965499269934
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6422605254928126507
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -6077592513370516193
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 3120127551530701848
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6253316290599473178
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 6393986354525207088
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 8692715344895602637
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -6457759531118754826
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 3644103077311091509
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -4902214098006922726
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3283282809781914090
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 7661476415997282647
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -6529641555738886433
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 5137991911038810018
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -977302934357294818
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 5362007240290569009
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -5746055329439461809
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -4309245648332976965
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -8794061964549383994
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -8004181262739356689
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 4697730966872592809
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 5844591656823557272
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -3280355349174046925
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -4710302506973921754
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -2850470253329512272
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5157302282254268197
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2999989461765307919
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2997771236865032169
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 421756372632714170
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 8622548695957307562
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3828558814805827446
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 8710566670510979829
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 5443842388994407572
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -4414852406066709154
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -8283075232791587007
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -1143919944078749801
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 5656864253266731434
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7618948281413953001
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: 4450948621297831796
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|wall_rocks_01_LOD4|Take 001|BaseLayer
+  - first:
+      74: 5166205917966527668
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.011
+  - first:
+      74: -3391263888271798243
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.012
+  - first:
+      74: -1324989257470483065
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.013
+  - first:
+      74: 6807049761668771337
+    second: EAThe80_Prop_Toy_CatClock_Tail_Anim|EAThe80_Prop_Toy_CatClock_01a.001Action.014
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EAThe80_Texture
+    second: {fileID: 2100000, guid: c04f37cf5a52a9942a20d54fba639f59, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    preBakeConvexCollisionMesh: 0
+    preBakeTriangleCollisionMesh: 0
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 1
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

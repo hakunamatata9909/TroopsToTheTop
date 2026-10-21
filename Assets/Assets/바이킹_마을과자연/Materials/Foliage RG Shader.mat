@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Foliage RG Shader
+  m_Shader: {fileID: 4800000, guid: 1a0bbce8608a7be4584e64258c657cae, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _VARIATION_ON
+  - _VERTICAL_GRADIENT_ON
+  - _WIND_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - SHADOWCASTER
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ColorTexture:
+        m_Texture: {fileID: 2800000, guid: 9aae3afadfff3bc459c9f0d49529567d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GroundTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoisePerlinWindAndColor:
+        m_Texture: {fileID: 2800000, guid: 9789d23040cb1fb45ad60392430c3c15, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _CastShadows: 0
+    - _ColorVariationTiling: 1
+    - _Cull: 2
+    - _CutoutFadeDistance: 8.1
+    - _CutoutFar: 0.785
+    - _CutoutNear: 0.904
+    - _Dither: 0
+    - _EnableGroundBlend: 0
+    - _EnableInstanceVariation: 0
+    - _EnableNormalMap: 0
+    - _EnableStylized: 0
+    - _EnableTranslucency: 0
+    - _EnableVariation: 1
+    - _EnableVerticalGradient: 1
+    - _EnableWind: 1
+    - _GradientHeight: 0.08
+    - _GradientOffset: 0.09
+    - _GradientStrength: 1
+    - _GrassOnOff: 0
+    - _GroundBlendStrength: 0.5
+    - _GroundTiling: 0.2
+    - _HueVariationStrength: 0.54
+    - _ShadowFlatness: 1
+    - _TerrainRotation: 0
+    - _TransAmbient: 1
+    - _TransDirect: 0.884
+    - _TransNormal: 0.436
+    - _TransScattering: 38.9
+    - _TransShadow: 1
+    - _TransStrength: 50
+    - _WindMaxDistance: 25
+    - _WindSpeed: 0.02
+    - _WindTiling: 0.07
+    m_Colors:
+    - _ColorSplit1: {r: 0.2650602, g: 1, b: 0, a: 0.6666667}
+    - _ColorSplit2: {r: 1, g: 0.27735847, b: 0.27735847, a: 0}
+    - _GradientBottom: {r: 1, g: 1, b: 1, a: 1}
+    - _GradientTop: {r: 1, g: 1, b: 1, a: 1}
+    - _GroundColor: {r: 0.927298, g: 0.9322358, b: 0.98490566, a: 1}
+    - _GroundColorTint: {r: 1, g: 1, b: 1, a: 1}
+    - _GroundOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _HueVariationColor: {r: 0.006800761, g: 0.8352941, b: 0, a: 1}
+    - _SkyColor: {r: 0.97735846, g: 0.97735846, b: 0.97735846, a: 1}
+    - _TerrainPivotOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _TerrainPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _TerrainSize: {r: 500, g: 500, b: 0, a: 0}
+    - _Tint: {r: 0.85660374, g: 0.85660374, b: 0.85660374, a: 1}
+    - _WindDirection: {r: 0.6, g: 0, b: 0.1, a: 0.5}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

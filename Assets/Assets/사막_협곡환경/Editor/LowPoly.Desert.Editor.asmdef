@@ -1,0 +1,10 @@
+{
+  "name": "LowPoly.Desert.Editor",
+  "references": [
+    
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

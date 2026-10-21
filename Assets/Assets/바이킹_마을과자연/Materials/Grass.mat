@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grass
+  m_Shader: {fileID: 4800000, guid: 1a0bbce8608a7be4584e64258c657cae, type: 3}
+  m_Parent: {fileID: 2100000, guid: 23c5be85675aa784b8c4359f1a6f317a, type: 2}
+  m_ModifiedSerializedProperties: 12
+  m_ValidKeywords:
+  - _GROUND_BLEND_ON
+  - _WIND_ON
+  m_InvalidKeywords:
+  - _GRASSONOFF_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - SHADOWCASTER
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ColorTexture:
+        m_Texture: {fileID: 2800000, guid: 770d30338ab548444a82b02b9c710e74, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GroundTexture:
+        m_Texture: {fileID: 2800000, guid: 2df01c15f12d396418c94bf164651201, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _CastShadows: 0
+    - _ColorVariationTiling: 26.29
+    - _EnableGroundBlend: 1
+    - _EnableStylized: 0
+    - _EnableTranslucency: 0
+    - _GradientHeight: 1
+    - _GradientOffset: 1
+    - _GradientStrength: 1
+    - _GrassOnOff: 1
+    - _GroundBlendStrength: 1
+    - _GroundTiling: 0.1
+    - _HueVariationStrength: 0.666
+    - _ShadowFlatness: 0.299
+    - _TransAmbient: 0.712
+    - _TransDirect: 0.847
+    - _TransNormal: 0
+    - _TransScattering: 35.9
+    - _TransShadow: 0.63
+    - _TransStrength: 0.9
+    - _WindSpeed: 0.01
+    m_Colors:
+    - _ColorSplit1: {r: 0.2650602, g: 1, b: 0, a: 0.6666667}
+    - _ColorSplit2: {r: 1, g: 0.27735847, b: 0.27735847, a: 0}
+    - _GradientBottom: {r: 1, g: 0, b: 0, a: 1}
+    - _GradientTop: {r: 0.013207495, g: 1, b: 0.107187845, a: 1}
+    - _GroundColor: {r: 0.36037737, g: 0.56515765, b: 1, a: 1}
+    - _GroundColorTint: {r: 0.7856253, g: 0.83396226, b: 0.7033606, a: 1}
+    - _GroundOffset: {r: 9, g: 9, b: 0, a: 0}
+    - _HueVariationColor: {r: 0.48551077, g: 0.9622642, b: 0.45571372, a: 1}
+    - _SkyColor: {r: 0.66306734, g: 0.90188676, b: 0.536027, a: 1}
+    - _TerrainPosition: {r: -161.5, g: 356.2, b: 0, a: 0}
+    - _TerrainSize: {r: 1000, g: 1000, b: 0, a: 0}
+    - _Tint: {r: 0.17924517, g: 1, b: 0.41374663, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

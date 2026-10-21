@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f232c5e789e596c4a82ed1f2cfda5dda
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261707
+  packageName: Stylized Medieval Kingdom
+  packageVersion: 1.0
+  assetPath: Assets/Stylized Medieval Kingdom URP/Layers/Grass Layer.terrainlayer
+  uploadId: 609249

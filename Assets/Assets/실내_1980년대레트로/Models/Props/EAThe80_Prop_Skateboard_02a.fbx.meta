@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: ceb0047d2a80cc5408715c9c44f4734b
+ModelImporter:
+  serializedVersion: 24600
+  internalIDToNameTable:
+  - first:
+      74: -7013393516319268342
+    second: EAThe80_Prop_Skateboard_02a|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: -3965666143714434147
+    second: EAThe80_Prop_Skateboard_02a|EAThe80_Prop_Skateboard_02aAction.001
+  - first:
+      74: -5802966508917152326
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: 5208727447382144418
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -5260760322049154085
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 4936620992893505162
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -6336597491234213680
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -9073647881325083128
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: -4777967344919108609
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3911221972117166001
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 1250033449987481041
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -8976630102283879235
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: -5353070257926945649
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 5644829427358548483
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -8204381266883591778
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 7436217841327219739
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: -902414974730794538
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -3580475592550235326
+    second: EAThe80_Prop_Skateboard_02a|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -3801892074980820162
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 2687167639577068263
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 8096114519778944591
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -7856159761544070972
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7372073608462291684
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 2303325808296367040
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -7521147640831677519
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 3515727656408479460
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6475930761496706661
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -6938417598041552644
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 4124941005204083548
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: 8953022767356115761
+    second: EAThe80_Prop_Skateboard_02a|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -4277002227745158422
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4097912015874846857
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5103466836748215996
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 1566741153837909
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -1696251034471138643
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6912048110488271522
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 8345448901986462139
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7145916489403866356
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -5760788903630487957
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 2054061674756121440
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 1073785419484239336
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: -6051478737083414974
+    second: EAThe80_Prop_Skateboard_02a|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 1496048647238032373
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4197835706173010509
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -3425530814191936218
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -5649222705994577658
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 349477519026635675
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6533028678954707338
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -1739345622113555429
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -6363474693088351703
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 1535370219934145403
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -5994841805870152943
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 4544790862150978943
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: -8075975340374210828
+    second: EAThe80_Prop_Skateboard_02a|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 6187250124585537100
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -3089385480821494798
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 541075368177417829
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5940593483056002767
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7493104548498301274
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -1417115938108303518
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 160854483274656571
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7791448301336544191
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 855785576783634077
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -1111913946951146307
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -6824736191442741867
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: -6470015748161089942
+    second: EAThe80_Prop_Skateboard_02a|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -8368840030990178313
+    second: EAThe80_Prop_Skateboard_02a|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4631445653645872599
+    second: EAThe80_Prop_Skateboard_02a|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 4196193425793776913
+    second: EAThe80_Prop_Skateboard_02a|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7134364128898019074
+    second: EAThe80_Prop_Skateboard_02a|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 908396882539434518
+    second: EAThe80_Prop_Skateboard_02a|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 104898733223182978
+    second: EAThe80_Prop_Skateboard_02a|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -1481224406729886237
+    second: EAThe80_Prop_Skateboard_02a|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 835512336185091057
+    second: EAThe80_Prop_Skateboard_02a|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 4652953005521664285
+    second: EAThe80_Prop_Skateboard_02a|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -5409322065583291376
+    second: EAThe80_Prop_Skateboard_02a|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 5090248757771394122
+    second: EAThe80_Prop_Skateboard_02a|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 3155506039952344136
+    second: EAThe80_Prop_Skateboard_02a|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 7550756907109773035
+    second: EAThe80_Prop_Skateboard_02a|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -5892579855298447711
+    second: EAThe80_Prop_Skateboard_02a|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -7361004748665342649
+    second: EAThe80_Prop_Skateboard_02a|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 4125263289634961052
+    second: EAThe80_Prop_Skateboard_02a|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -5038850727133490734
+    second: EAThe80_Prop_Skateboard_02a|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -8586531204430970340
+    second: EAThe80_Prop_Skateboard_02a|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 3294629564178803717
+    second: EAThe80_Prop_Skateboard_02a|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -6219217572291852255
+    second: EAThe80_Prop_Skateboard_02a|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -8946628467087325461
+    second: EAThe80_Prop_Skateboard_02a|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: -433213657709690701
+    second: EAThe80_Prop_Skateboard_02a|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -4250263596432207115
+    second: EAThe80_Prop_Skateboard_02a|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -5571902061597191152
+    second: EAThe80_Prop_Skateboard_02a|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -5956670270483581258
+    second: EAThe80_Prop_Skateboard_02a|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -1985715350881668246
+    second: EAThe80_Prop_Skateboard_02a|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7239054804483794521
+    second: EAThe80_Prop_Skateboard_02a|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 4166906490378217944
+    second: EAThe80_Prop_Skateboard_02a|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3657001155609953258
+    second: EAThe80_Prop_Skateboard_02a|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 511412337899549295
+    second: EAThe80_Prop_Skateboard_02a|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 3214434473237031625
+    second: EAThe80_Prop_Skateboard_02a|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -1302042778658034431
+    second: EAThe80_Prop_Skateboard_02a|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 2339144465851963495
+    second: EAThe80_Prop_Skateboard_02a|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 8278683347074548604
+    second: EAThe80_Prop_Skateboard_02a|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -1482625224523129553
+    second: EAThe80_Prop_Skateboard_02a|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7992485463360734298
+    second: EAThe80_Prop_Skateboard_02a|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 2812388081761610791
+    second: EAThe80_Prop_Skateboard_02a|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -3317842680280481758
+    second: EAThe80_Prop_Skateboard_02a|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 6971385590634013546
+    second: EAThe80_Prop_Skateboard_02a|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -6890536686312841923
+    second: EAThe80_Prop_Skateboard_02a|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -96564479849617647
+    second: EAThe80_Prop_Skateboard_02a|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -289055369746475841
+    second: EAThe80_Prop_Skateboard_02a|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7435004229050588258
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4446418983260360054
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7706346340019159591
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2059357296096884801
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 7151783996727576835
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 1410976760292475305
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6751987192247636069
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -3088548228056155100
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -4688480543518377513
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: -7026650710133569835
+    second: EAThe80_Prop_Skateboard_02a|wall_rocks_01_LOD4|Take 001|BaseLayer
+  - first:
+      74: 6517419036525222962
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: 5779543622879974671
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.001
+  - first:
+      74: -8705232797686541311
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.002
+  - first:
+      74: -4781747820576867238
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.003
+  - first:
+      74: 1590441303532886646
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.004
+  - first:
+      74: -4636613608413122095
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.005
+  - first:
+      74: 3406615004628269320
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.006
+  - first:
+      74: -3181020427032727357
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.007
+  - first:
+      74: -2851812521165786650
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: -4110400303857666389
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -8998821292452334675
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 8414197300460386188
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 857119939294519424
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7430592965310501496
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: -3276608403751481570
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -6628869864260980699
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 8117700858946086257
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -5132801286957944887
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: -4990672571709827092
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -5317806873837585237
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 2587423546042534838
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -3084626839465981092
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: -1463559884579894088
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -8745755010742342172
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 1610375641030783472
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1244548586178183353
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -4996630154692828446
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -5603005798655761864
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2031390824480130448
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -877726995802306561
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2775212212675157677
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -6554099084405003710
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -8559636823229207693
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -3062976570092997539
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -3238470381727232634
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: 3762682189534099678
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -4796260615516092545
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 5088983780555570582
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 905619021892125092
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -4285730647400152246
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 4755987082601297146
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 718729171090341596
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 2109034922881139117
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 5011592351485228851
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -1181421063323160213
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -4017772432479605096
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -3840323273958870869
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: 7372565513851292102
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 7634013748002295301
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 2839084991556260520
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7219420613203112582
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -2421998353297649211
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -5013782811751401227
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6452843239814260999
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -6597237662464429078
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7953331409933670171
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 2292593189797993109
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -7093688581152368925
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 516117625059153638
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: -6567216360125640019
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -2840620152247947627
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4512644438142705675
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -5384402789756616717
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5304891825145971449
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 6501282861413979481
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 5958880448070740199
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 7916875658612722524
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4042759955983501629
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -9087138648249666197
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -5355868462527457138
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 3701341285055023529
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: 5527585010720104187
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -2178162485598702641
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -5007373635111447858
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 8780866470652359144
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5207154122038603982
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7275902628017263991
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 1032524272063367516
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2196330045052194495
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 1041843362234216884
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -3116034402182988915
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 8844974926101675879
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3809321218080018599
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -4000687070444465445
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2172581950988179588
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 5314767097690773068
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3566180973436887756
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2688797414613704524
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4659961218047148317
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6682827376267942985
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 6117447455661039549
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 7261372220832504457
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 7236028190714125138
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 4375234800574788045
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 8363776387604891519
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 2806017304873473374
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 3895273604658391598
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 7163026028188419040
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -9049492609538771617
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 2196380646895842446
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -1932277420428016142
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -7875714221168558101
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -760056489536545827
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -6387361882128442266
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -5929103306067995483
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -7867453933373441136
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 656453059446197304
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -5463292795929656468
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -2123089961354199551
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -8493735221684300861
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 748404635376845971
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -3850127939617210886
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -5983999533617942790
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7361323483837155451
+    second: EAThe80_Prop_Skateboard_02a_LOD2|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 3123222601755086341
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4472741176306481077
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: -6119992229331631703
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 1849091768521576322
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2312004828222603161
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -3378063794223115105
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 5661917512984962712
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -7151471537762447433
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -5287669305149249650
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: 8296184325053941006
+    second: EAThe80_Prop_Skateboard_02a_LOD2|wall_rocks_01_LOD4|Take 001|BaseLayer
+  - first:
+      74: 7645248053702305679
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: 225463458044152416
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.001
+  - first:
+      74: 4323450685943179768
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.002
+  - first:
+      74: -9165425898361426954
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.003
+  - first:
+      74: -2691899996146333123
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.004
+  - first:
+      74: 6530539629447369431
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.005
+  - first:
+      74: -4218955080824476202
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.006
+  - first:
+      74: 6403207602755526996
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.007
+  - first:
+      74: 8884796253581936346
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: -5569308617521095278
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 8887918948331301168
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 5620557272826756120
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 1529331767522596117
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -698273011898907858
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: -1567327210838381084
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -7520028282377976662
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 2624224998482477680
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 7649393587895143125
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: 8166017538335324733
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 8301230363169570649
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 3340101050260740492
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 3427057787048047756
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: -66651652934214500
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -6905829034203450615
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 8647052261610383380
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -2699361855359539178
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 6015675828881732351
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 6044539934781661553
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2754465169617875867
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 835438084899388989
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 4607199628407577678
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -8455274145358300320
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -1221883526786323541
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -2188919832627491473
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 4809491381542016687
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: 6021615777704586822
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -2063915989238771182
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -5991492882639875276
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5953370369825549357
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -3227270049100809970
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 4266057760782637226
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 5449985329884377880
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -3380330713604446281
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -3474125466081333089
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 8191261607756850538
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -8528631868658743986
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -5695962216340811796
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: -4275490385530308918
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 267185976775810584
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -3272854130907615896
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7666817357417880914
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 5336672908607224010
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 8734000531942566306
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -8693753069756846888
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 191674608397252007
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -4669197653377004198
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 2994513451951898973
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 6572476151977897872
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -4517206247815426089
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: 613541698666893389
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 3104804869408974626
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 5916529607954447064
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -4242553274357155434
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5895868630240038796
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2291426425400144453
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3817446953510416471
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 4784332160017016252
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 2555259094711820180
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 3751645820080646179
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -6788285930538967501
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -3947035930468773701
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: -1405609759491742755
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -983424384143052079
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 930815022402008322
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 2126740616839439820
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5724883668622630208
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -8872581506303924792
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -8717704984212365217
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 3242120468888881131
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 9074184430068482786
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6862076893932870628
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -7277767081716041650
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -1739226794099649978
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 3346446442016364771
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 7244521042432515611
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -665329362937702555
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -7167375390407914247
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 2195028459169325670
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 618115494927197738
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -5756585628147149782
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 4300859086702040096
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 8300113201643542137
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 7670344848901692108
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: -4143862664544602377
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2346968738169425137
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3368912813103652739
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -4360039816087737629
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 3836685465064713716
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -8529611278022378142
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 5847788349408437676
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 8884362371887558948
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -4508298739874756423
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -7649707687394339951
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 8815877165000861466
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -1296869447306475495
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -7061881637337758225
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7695729505277562311
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 1995071848008610087
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -7061830860500726310
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 5164905232035314636
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: -3470963324367631890
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -425119348330965061
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -3418674534652053213
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 3187433876279731561
+    second: EAThe80_Prop_Skateboard_02a_LOD1|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: 1841686289623134284
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 5116387649108477564
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5413187477129051088
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 1832925418913259317
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -5686249928109385336
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 896470234032413843
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -7983453141324594358
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 5293486874910714579
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -2803460262034431890
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: -885551071758980963
+    second: EAThe80_Prop_Skateboard_02a_LOD1|wall_rocks_01_LOD4|Take 001|BaseLayer
+  - first:
+      74: 3849943895255769481
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: -3609216359493905609
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.001
+  - first:
+      74: 6780420074348538417
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.002
+  - first:
+      74: 3322200458309151505
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.003
+  - first:
+      74: 5209722806706526370
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.004
+  - first:
+      74: 5365813699131329578
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.005
+  - first:
+      74: -6473467143729303555
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.006
+  - first:
+      74: 631310070058049678
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.007
+  - first:
+      74: 124361806376307760
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: -2223276369382630581
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1764573079078695237
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -990631379634685598
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5025876903833870344
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -510907628431691944
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: 6251495578270207144
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 324305203021904947
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 4155067376281056449
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 5114294289075074846
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: -8635500058362455532
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 4768730161399222332
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 1702259624135015494
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -1604744382090794830
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: 1955598254992967039
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -2908963575165961569
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 4007431356974298169
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 4185895583032414634
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -4131121224591928204
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 6098259468157484941
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -8813898580761474478
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -6925616393684373778
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 1078318141667897150
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -3205143468860617333
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: 1664235448789376195
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 8687284934314033016
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 1235450915782626425
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: 3679926495404410412
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 4927292015646092310
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3010575838248118187
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 3254832470044371162
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 126657215864641476
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 6082560802268787951
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 6813800074727903693
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 3943398729049198589
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 328899898655078910
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -2193511433674900091
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -9215754257760865197
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 40954715929182720
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: -1920764220863399583
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -144170008058780042
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 7384784891214773506
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 4529350188513819888
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 5918090344301281077
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -3937463348168811970
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: 181012457766171475
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 2989425921783547694
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4231310135284666379
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 9170986798215700782
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -5484708122955388735
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -1118961732268502299
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: -7944644278567661252
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -2657281615773743549
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -2618886337124615619
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 4547192087404776638
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5688452275316169498
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -3525381421906490530
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 2568975093607955193
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 3166647757216202417
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 6193376516756904854
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -770351836116981573
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -6658304912146999792
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 4566105422634203888
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: -5222194352739879527
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 3925824240569784451
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 2265596438770633231
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -3510359761895580705
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2066258366334882612
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 4209009055330948698
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 1268628163138695966
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -3781706744576520781
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 584421517451478485
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -3147374351911803087
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 5371010442409746646
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1103288254457875695
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -8298760212541973202
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -161705935769977288
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 6246869002066649737
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 7729338253139801037
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 4277437205400270316
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 6650992057467309869
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: 5498819642626418815
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -5888855011565356588
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -1870160086819583464
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 984736612913073250
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: -1811214526701205130
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 2453465407860646701
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: 1075920403921022975
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -6717756330198821150
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -3289658763649156261
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: 4073898175075481778
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -7037398499978898771
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -716490807650184543
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -8533107498764583254
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5774803985542137659
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7102080272835295145
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -8147907600248789401
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 5244644229952662846
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4629063219007064129
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -5593822412553177421
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 8333824011699616260
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -7746187049829046498
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2569839846500965154
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -1847785669357047355
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: -1738593889098335587
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7752772674201946181
+    second: EAThe80_Prop_Skateboard_02a_LOD0|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -5627041687314065432
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 2640334488455619537
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 3309766368876341853
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -4382549776059153411
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: -8221508389126055274
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -8870649144510707844
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -931147211940801772
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 5580236389071418383
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -7076405447401363530
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: 6647817405723866099
+    second: EAThe80_Prop_Skateboard_02a_LOD0|wall_rocks_01_LOD4|Take 001|BaseLayer
+  - first:
+      74: -152997995372847259
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.008
+  - first:
+      74: -3500691007475050307
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.009
+  - first:
+      74: 3783474627751286735
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.010
+  - first:
+      74: -25395822737598935
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.008
+  - first:
+      74: 5037059767230693361
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.009
+  - first:
+      74: -8151459468812566701
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.010
+  - first:
+      74: 2248481496958519025
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.008
+  - first:
+      74: 2060223869722523465
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.009
+  - first:
+      74: 982219990548082403
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.010
+  - first:
+      74: -246940497662256545
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.011
+  - first:
+      74: 2293116075214381021
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.012
+  - first:
+      74: 5479669937817370175
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.013
+  - first:
+      74: -6385674462743022684
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.011
+  - first:
+      74: 7382521101159754576
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.012
+  - first:
+      74: -1805859091679422068
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.013
+  - first:
+      74: -4199258782483788846
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.011
+  - first:
+      74: -1488750653829595597
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.012
+  - first:
+      74: 2210767378267414399
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.013
+  - first:
+      74: -2192039778559501977
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.014
+  - first:
+      74: -390315294622569438
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.015
+  - first:
+      74: -2844029596222985715
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.016
+  - first:
+      74: -4603072571567643737
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.014
+  - first:
+      74: -9164337179398137355
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.015
+  - first:
+      74: 471253244338643807
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.016
+  - first:
+      74: 5346489103103880050
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.014
+  - first:
+      74: -7453495824896609082
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.015
+  - first:
+      74: -6164011411579280223
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.016
+  - first:
+      74: -6031594849783597212
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.017
+  - first:
+      74: -6868112203653329910
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.018
+  - first:
+      74: 3846390213876304844
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.019
+  - first:
+      74: 2878331247733776847
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.017
+  - first:
+      74: 4652931821580521207
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.018
+  - first:
+      74: 7222890199705449048
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.019
+  - first:
+      74: 5955600220177018263
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.017
+  - first:
+      74: -2558071992473565925
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.018
+  - first:
+      74: 618165859301060491
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.019
+  - first:
+      74: 3791272218420173144
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.020
+  - first:
+      74: -4950127139000334887
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.021
+  - first:
+      74: 9215000416512124647
+    second: EAThe80_Prop_Skateboard_02a_LOD2|EAThe80_Prop_Skateboard_02aAction.022
+  - first:
+      74: 7186919603992977795
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.020
+  - first:
+      74: 5277503832213290381
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.021
+  - first:
+      74: 6229430713451359166
+    second: EAThe80_Prop_Skateboard_02a_LOD1|EAThe80_Prop_Skateboard_02aAction.022
+  - first:
+      74: 4598735251941910394
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.020
+  - first:
+      74: -361662455348364576
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.021
+  - first:
+      74: 5577416032285635936
+    second: EAThe80_Prop_Skateboard_02a_LOD0|EAThe80_Prop_Skateboard_02aAction.022
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EAThe80_Texture.004
+    second: {fileID: 2100000, guid: c04f37cf5a52a9942a20d54fba639f59, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    preBakeConvexCollisionMesh: 0
+    preBakeTriangleCollisionMesh: 0
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 1
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

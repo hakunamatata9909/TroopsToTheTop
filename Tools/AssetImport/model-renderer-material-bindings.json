@@ -1,0 +1,7207 @@
+{
+  "models": [
+    {
+      "guid": "08ed621a576d64249903c40549152149",
+      "renderers": [
+        {
+          "node": "EA_Arch_Pillar_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Pillar_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Pillar_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "d88de944cf7181843b988f0547dbf657",
+      "renderers": [
+        {
+          "node": "EA_Module_Corner_Clean_01a_L_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Clean_01a_L_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Clean_01a_L_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Clean_01a_R_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Clean_01a_R_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Clean_01a_R_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Dirt_01a_L_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Dirt_01a_L_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Dirt_01a_L_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Dirt_01a_R_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Dirt_01a_R_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Corner_Dirt_01a_R_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "137abd20d5c263947ba8166c2498bcb2",
+      "renderers": [
+        {
+          "node": "EA_Enviro_Fence_Hang_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Enviro_Fence_Hang_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Enviro_Fence_Hang_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "b4b474fa2628e2e48a6c2e28c771f4c0",
+      "renderers": [
+        {
+          "node": "EA_Wall_Box_Convex_01a.001_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Convex_01a.001_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Convex_01a.001_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Convex_Half_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Convex_Half_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Convex_Half_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Convex _Base_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Convex _Base_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Convex _Base_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01e_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01e_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01e_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01f_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01f_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01f_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01g_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "621b5d7fd5bc58a45afb8d2f2046b8b0"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01g_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "621b5d7fd5bc58a45afb8d2f2046b8b0"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01g_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "621b5d7fd5bc58a45afb8d2f2046b8b0"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01h_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01h_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_01h_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_02a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_02a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_02a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_02b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_02b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_02b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_02c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_02c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex _Clean_02c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "d8a355b9b93577641b2f1c08efd9e8a0",
+      "renderers": [
+        {
+          "node": "EA_Wall_Box_Clean_Hollow_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Clean_Hollow_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Clean_Hollow_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Clean_Hollow_Half_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Clean_Hollow_Half_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Clean_Hollow_Half_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bb2f41e477672744ead5294a4809b988"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bb2f41e477672744ead5294a4809b988"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bb2f41e477672744ead5294a4809b988"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "cbc5001f08702834483fe70ae00f6edd"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cbc5001f08702834483fe70ae00f6edd"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cbc5001f08702834483fe70ae00f6edd"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0b4311b722bf95d4d8d3d041f7731b39"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0b4311b722bf95d4d8d3d041f7731b39"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0b4311b722bf95d4d8d3d041f7731b39"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01e_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01e_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01e_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2b1d8cd8ff721cd40bd3b149c3107061"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01f_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01f_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01f_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01g_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01g_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01g_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01h_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "621b5d7fd5bc58a45afb8d2f2046b8b0"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01h_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "621b5d7fd5bc58a45afb8d2f2046b8b0"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _01h_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "621b5d7fd5bc58a45afb8d2f2046b8b0"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _02a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _02a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _02a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4c7c4f31952f68d40874597c2e0c332c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _02b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _02b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _02b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _02c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _02c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _02c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _Base_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _Base_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Hollow_Clean _Base_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "02a87d7334cc3b640b8c23db650002cf",
+      "renderers": [
+        {
+          "node": "EA_ModernMarket_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_ModernMarket_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            }
+          ]
+        },
+        {
+          "node": "EA_ModernMarket_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "105ad824b93ca9746928d18f149660c4",
+      "renderers": [
+        {
+          "node": "EA_Roof_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01c_L_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01c_L_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01c_L_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01c_R_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01c_R_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01c_R_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01e_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cbc5001f08702834483fe70ae00f6edd"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01e_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cbc5001f08702834483fe70ae00f6edd"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01e_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cbc5001f08702834483fe70ae00f6edd"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01f_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01f_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01f_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01h_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01h_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01h_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01g_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01g_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            }
+          ]
+        },
+        {
+          "node": "EA_Roof_01g_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "2fab048cf76dd024294ef4438c2aa4bf",
+      "renderers": [
+        {
+          "node": "Door_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01e_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01e_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01e_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01f_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01f_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01f_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01g_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01g_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01g_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01e_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01e_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01e_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01f_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01f_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01f_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_No_Door_Dirt_Convex_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_No_Door_Dirt_Convex_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_No_Door_Dirt_Convex_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_Half_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b36e3ac49f69c084ab76ee2e24f1fad5"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_Half_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b36e3ac49f69c084ab76ee2e24f1fad5"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_Half_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b36e3ac49f69c084ab76ee2e24f1fad5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "afc214532cbbc1b4eb6478fa9c904db8",
+      "renderers": [
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01e_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01e_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01e_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01f_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01f_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01f_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01g_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01g_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01g_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01h_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01h_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_01h_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_02a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_02a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_02a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_02b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_02b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_02b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_02c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_02c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_02c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_Base_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_Base_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Window_Convex_Dirt_Base_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_Half_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b36e3ac49f69c084ab76ee2e24f1fad5"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_Half_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b36e3ac49f69c084ab76ee2e24f1fad5"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_Half_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b36e3ac49f69c084ab76ee2e24f1fad5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "3ced01648e2844b4cab838fd0ce9f7c2",
+      "renderers": [
+        {
+          "node": "EA_Module_Store_Dirt_02a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Module_Store_Dirt_02d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "5d56cbac8982c9c44af0efd4c71dfb92"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "06dcc4ef5ff13314d9d0dcd5395f66c5",
+      "renderers": [
+        {
+          "node": "EA_Assortment_Case_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Assortment_Case_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Assortment_Case_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "dcff86d779581db46acbb7e715f1df62",
+      "renderers": [
+        {
+          "node": "EA_Container_Cardboard_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            }
+          ]
+        },
+        {
+          "node": "EA_Container_Cardboard_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            }
+          ]
+        },
+        {
+          "node": "EA_Container_Cardboard_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "16be86398a29ff34c8f82177557f835c",
+      "renderers": [
+        {
+          "node": "EA_Env_LifeBelt_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Env_LifeBelt_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Env_LifeBelt_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "9ebb1b374a564114db9e76be606c9514",
+      "renderers": [
+        {
+          "node": "EA_Prop_HotdogStand_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Prop_HotdogStand_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Prop_HotdogStand_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "28b3e01c422b5e540b3c7ec85850202b",
+      "renderers": [
+        {
+          "node": "EA_Prop_Mine_Sheet_Web_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2d100cc047aed7742bef305f31bc9e42"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "96d7a7bb4f617134787558eeefc8ba18"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Prop_Mine_Sheet_Web_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2d100cc047aed7742bef305f31bc9e42"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Prop_Mine_Sheet_Web_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "2d100cc047aed7742bef305f31bc9e42"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "96d7a7bb4f617134787558eeefc8ba18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "ef1642e3723b2db4e89c1e046b4a666e",
+      "renderers": [
+        {
+          "node": "EA_Storage_Barrel_02c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Storage_Barrel_02c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        },
+        {
+          "node": "EA_Storage_Barrel_02c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "1afe224f90a5e744b914e28e5b110f8a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "6a29234083d22fa42a989da312e275c6",
+      "renderers": [
+        {
+          "node": "EA_Storage_Big_box_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            }
+          ]
+        },
+        {
+          "node": "EA_Storage_Big_box_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        },
+        {
+          "node": "EA_Storage_Big_box_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e5219315d4410194e9b264a2807b6f6f"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "96890374920cf5748a9c0eb4a95fbe90",
+      "renderers": [
+        {
+          "node": "EA_Arch_Wall02_End_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall02_End_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall02_End_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "f2cd436e6c28e914c834871bce17bc15",
+      "renderers": [
+        {
+          "node": "EA_Arch_Wall02_End_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall02_End_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall02_End_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "b73472497a2b7b54187622e7de50505a",
+      "renderers": [
+        {
+          "node": "EA_Arch_Wall02_End_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall02_End_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall02_End_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "09fe379d017a8d54c9ab15557b575c89",
+      "renderers": [
+        {
+          "node": "EA_Arch_Wall03_End_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall03_End_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall03_End_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "9a881b690d10dba4b8001b1f5ff2c8f3",
+      "renderers": [
+        {
+          "node": "EA_Arch_Wall03_Seam_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall03_Seam_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall03_Seam_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "b23a47e7e5708564b8fb752dd95ccb39",
+      "renderers": [
+        {
+          "node": "EA_Arch_Wall03_Seam_01d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall03_Seam_01d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Arch_Wall03_Seam_01d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "0fd93b9ce102790488f8a6d6d257eb86",
+      "renderers": [
+        {
+          "node": "EA_Prop_Barier_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "45ee7583b3ff61a408e752c6e81275f2"
+            }
+          ]
+        },
+        {
+          "node": "EA_Prop_Barier_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "45ee7583b3ff61a408e752c6e81275f2"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "2fbff98152ff19240af4cfd0b82ee812"
+            }
+          ]
+        },
+        {
+          "node": "EA_Prop_Barier_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "45ee7583b3ff61a408e752c6e81275f2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "47bd045d92d952549bcf72e88d770c9b",
+      "renderers": [
+        {
+          "node": "EA_Bld_Tomb_Entrance_Moss_Class_B_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Bld_Tomb_Entrance_Moss_Class_B_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Bld_Tomb_Entrance_Moss_Class_B_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "4118995b3b543054a925c48f3f2f8269",
+      "renderers": [
+        {
+          "node": "EA_Bld_Tomb_Entrance_White_Class_B_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Bld_Tomb_Entrance_White_Class_B_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Bld_Tomb_Entrance_White_Class_B_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "07ff8919f72ff9f41ab5bd7bcf7c0c85",
+      "renderers": [
+        {
+          "node": "EA_Closer_Niche_Tomb_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Closer_Niche_Tomb_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Closer_Niche_Tomb_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "a0014866ed99b9c4199525eb541cfec3",
+      "renderers": [
+        {
+          "node": "EA_Closer_Niche_Tomb_01f_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f9d79b18540781b409123d84f4042064"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Closer_Niche_Tomb_01f_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f9d79b18540781b409123d84f4042064"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Closer_Niche_Tomb_01f_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "f9d79b18540781b409123d84f4042064"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "4c13f8112825cdc41b15c899e194c25f",
+      "renderers": [
+        {
+          "node": "EA_Closer_Niche_Tomb_01g_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Closer_Niche_Tomb_01g_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Closer_Niche_Tomb_01g_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "72950f178c66326458bdf2a9152b85b1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "7bba924b94e1ba14da42c411d6547cc9",
+      "renderers": [
+        {
+          "node": "EA_Grave_Modern_Mini_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4ecb49e595526b48ae483bbc5284f03"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Grave_Modern_Mini_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4ecb49e595526b48ae483bbc5284f03"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Grave_Modern_Mini_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4ecb49e595526b48ae483bbc5284f03"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "e8b48f4b4457e1e46a75dc3a13ad1309",
+      "renderers": [
+        {
+          "node": "EA_Grave_Wooden_Mini_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "f9d79b18540781b409123d84f4042064"
+            }
+          ]
+        },
+        {
+          "node": "EA_Grave_Wooden_Mini_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "f9d79b18540781b409123d84f4042064"
+            }
+          ]
+        },
+        {
+          "node": "EA_Grave_Wooden_Mini_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "f9d79b18540781b409123d84f4042064"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "1c486a97f0eb94a42a5798d2de45274a",
+      "renderers": [
+        {
+          "node": "EA_Rubbish_Tabble_02a.001_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4ecb49e595526b48ae483bbc5284f03"
+            }
+          ]
+        },
+        {
+          "node": "EA_Rubbish_Tabble_02a.001_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        },
+        {
+          "node": "EA_Rubbish_Tabble_02a.001_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "19ee4e8a30f97c042bfbdba9e8c909e6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "330db4379e96c3f4c93e62d593f83206",
+      "renderers": [
+        {
+          "node": "EAThe80_Door_int_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Door_int_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Door_int_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Door_int_01d",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_DoorWide_4x4_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_WallMain_Int_Door_4x4_01",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f813ea2e86c38034b9d308b61400cd23"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            },
+            {
+              "slot": 2,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_WallMain_Int_Door_4x4_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "f813ea2e86c38034b9d308b61400cd23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "bf724711bff08e34bb1a6f0858385312",
+      "renderers": [
+        {
+          "node": "EAThe80_WallMain_4x2_01",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_WallMain_4x2_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_WallMain_4x4_01",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_WallMain_4x4_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_WallMain_4x4_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_WallMain_Dirty_4x4_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_WallMain_Dirty_4x4_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "27d9beb50c9e32944ac575ad08c1f70d"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "740e220356650754699ac44f443c9374",
+      "renderers": [
+        {
+          "node": "EAThe80_Prop_Glasses_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c8c2fb18057b9d74b87537bfb1b74b6c"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_Glasses_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_Glasses_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "4adf14fc7eb691c42975cedb16e0145f",
+      "renderers": [
+        {
+          "node": "EAThe80_Cake_Container_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Cake_Container_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Cake_Container_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Cake_ContainerCover_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Cake_ContainerCover_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e0e3c3b62daccf949bf89de605418028"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Cake_ContainerCover_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "48ad105adf0e06e40a775469949d4ce2",
+      "renderers": [
+        {
+          "node": "EAThe80_CupBoard_X60_Corner_Floor_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoard_X60_Corner_Floor_02a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoard_X60_Floor_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoard_X60_Floor_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoard_X60_Floor_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoard_X60_Wall_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoard_X60_Wall_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoard_X120_Floor_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoard_X120_Floor_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoard_X120_Wall_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDoor_X60L_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDoor_X60L_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDoor_X60L_02a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDoor_X60L_02b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDoor_X60R_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDoor_X60R_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDoor_X60R_02a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDoor_X60R_02b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDrawer_X60_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDrawer_X60_02a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDrawer_X120_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_CupBoardDrawer_X120_02a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Sink_X120_Floor_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "ae1aaf23de7b471429b64fb6d32a8434"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "7c4d9b79a7e35114083c27676a800f09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "7589b0903b453cf40bc724b45182039a",
+      "renderers": [
+        {
+          "node": "EAThe80_MixerHandmade_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_2D_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e0e3c3b62daccf949bf89de605418028"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_2D_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e0e3c3b62daccf949bf89de605418028"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_2D_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e0e3c3b62daccf949bf89de605418028"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_Cable_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_Cable_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_Cable_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_Rest_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_Rest_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_Rest_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_Rest_01a.001_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_Rest_01a.001_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_MixerHandmade_Rest_01a.001_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "47a40e61f3adbfa40a9da74e7a241263",
+      "renderers": [
+        {
+          "node": "EAThe80_Prop_Console_GameBoy_01a.001_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "720facd9f33eb054598884379be79e2a"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_Console_GameBoy_01a.001_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "720facd9f33eb054598884379be79e2a"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_Console_GameBoy_01a.001_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "720facd9f33eb054598884379be79e2a"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_Console_GameBoy_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_Console_GameBoy_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_Console_GameBoy_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "2345aac8957be3d47bd6e4d8f2412d60",
+      "renderers": [
+        {
+          "node": "EAThe80_Prop_CarWheels_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_CarWheels_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_Toy_Jeep_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "c325e94a6236e2c47bfb5cf7660b7e05"
+            }
+          ]
+        },
+        {
+          "node": "EAThe80_Prop_CarWheels_01a.001",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "c04f37cf5a52a9942a20d54fba639f59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "7b535359824d1ca41945a6b836c1e708",
+      "renderers": [
+        {
+          "node": "Cucumber_bus_01b_LOD0",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "f7f769ab392be8c4aaa5b682729f42c1"
+            },
+            {
+              "slot": 0,
+              "materialGuid": "f7f769ab392be8c4aaa5b682729f42c1"
+            }
+          ]
+        },
+        {
+          "node": "Cucumber_bus_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f7f769ab392be8c4aaa5b682729f42c1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "f36a10a58c89b6149b77988095b08544"
+            }
+          ]
+        },
+        {
+          "node": "Cucumber_bus_01b_LOD2",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "f7f769ab392be8c4aaa5b682729f42c1"
+            },
+            {
+              "slot": 0,
+              "materialGuid": "f7f769ab392be8c4aaa5b682729f42c1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "75b4ada28609595191f2a83ccce4d1bb",
+      "renderers": [
+        {
+          "node": "",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "9b9514584cc472849a85a271798952c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "4eac8b1e7573b7049b6d8e13639544b2",
+      "renderers": [
+        {
+          "node": "",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d129c4c2153102b4387b9e5a1817ac17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "41fd84b2166b8c547863ea98edff4964",
+      "renderers": [
+        {
+          "node": "EA_Env_Grass_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e2285347ef127a743a75001ea0ffe41d"
+            }
+          ]
+        },
+        {
+          "node": "EA_Env_Grass_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e2285347ef127a743a75001ea0ffe41d"
+            }
+          ]
+        },
+        {
+          "node": "EA_Env_Grass_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e2285347ef127a743a75001ea0ffe41d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "015445c5d4747d4498a040cbda138c7e",
+      "renderers": [
+        {
+          "node": "Citizen_Beard_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "Citizen_Beard_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "Citizen_Beard_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_corpse",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_eyes",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_hair_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_hair_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_hair_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_hair_01d",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_hat_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_hat_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_hat_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "Citizen_mustache_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "Citizen_mustache_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "Citizen_mustache_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "Citizen_mustache_01d",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "Citizen_mustache_01e",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "citizen_teeth",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a404181af8003064dacd7c3dee942747"
+            }
+          ]
+        },
+        {
+          "node": "I_Citizen_BowTie_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "7227e658474709c41a81df02d5a64f58"
+            }
+          ]
+        },
+        {
+          "node": "I_Citizen_Glasses_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "7227e658474709c41a81df02d5a64f58"
+            }
+          ]
+        },
+        {
+          "node": "I_Citizen_Monocle",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "7227e658474709c41a81df02d5a64f58"
+            }
+          ]
+        },
+        {
+          "node": "I_Citizen_Stick",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "7227e658474709c41a81df02d5a64f58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "ec7071e864fe6ff4abb643d2d1b5ab1e",
+      "renderers": [
+        {
+          "node": "female_citizen_boots",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_dress",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_dress_02",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_earnings",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_eyes",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_hair",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_hair_2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_hair_3",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_hands",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_hat",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_hat_02",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_hat_03",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_head",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_shawl",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "female_citizen_teeth",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0ff067aa990e7ee4eb09c18b7334949d"
+            }
+          ]
+        },
+        {
+          "node": "I_female_citizen_bag",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "92ae9efe48453c1469cb009c83541717"
+            }
+          ]
+        },
+        {
+          "node": "I_umbrella_close",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "92ae9efe48453c1469cb009c83541717"
+            }
+          ]
+        },
+        {
+          "node": "I_umbrella_open",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "92ae9efe48453c1469cb009c83541717"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "7b387ab899afc724d9b15aebe1bfd0cc",
+      "renderers": [
+        {
+          "node": "butcher_eyebrows",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        },
+        {
+          "node": "butcher_eyes",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        },
+        {
+          "node": "butcher_hair",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        },
+        {
+          "node": "butcher_hair_02",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "butcher_teeth",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        },
+        {
+          "node": "buther_corpse",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        },
+        {
+          "node": "buther_shirt_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "buther_shirt_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_apron_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_apron_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_apron_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Butcher_Cup_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Gum_mittens_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "I_butcher_cleaver",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "5243302a379048a47b2ff8455f13b18a"
+            }
+          ]
+        },
+        {
+          "node": "I_butcher_cleaver_02",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "5243302a379048a47b2ff8455f13b18a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "8a9b62885297bcb40b3ede687822c76c",
+      "renderers": [
+        {
+          "node": "butcher_eyebrows",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "butcher_eyes",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "butcher_hair",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "butcher_hair_02",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "butcher_teeth",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "buther_corpse",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "buther_shirt_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "buther_shirt_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_apron_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_apron_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_apron_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Butcher_Cup_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "EA_Gum_mittens_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "d2e89037ef12e1044b937f3e4b4c7b7c"
+            }
+          ]
+        },
+        {
+          "node": "I_butcher_cleaver",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "5243302a379048a47b2ff8455f13b18a"
+            }
+          ]
+        },
+        {
+          "node": "I_butcher_cleaver_02",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "5243302a379048a47b2ff8455f13b18a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "f82049d4b55e24e49b2080cdc5928802",
+      "renderers": [
+        {
+          "node": "Door_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "Door_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "Door_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "Door_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "Door_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01e_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01e_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01e_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01f_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01f_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01f_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "Door_01g_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01g_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "9570a65f25ef54343b2f5b01a2e9ff6e"
+            }
+          ]
+        },
+        {
+          "node": "Door_01g_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "cb869fa31a738f149aae46a442042453"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Box_Dirt_Convex_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01b_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01b_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01b_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01c_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01c_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01c_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01d_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01d_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01d_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01e_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01e_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01e_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01f_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01f_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_Door_Dirt_Convex_01f_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            },
+            {
+              "slot": 1,
+              "materialGuid": "6225201687994ab4bb0d8b71967ff95b"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_No_Door_Dirt_Convex_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_No_Door_Dirt_Convex_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        },
+        {
+          "node": "EA_Wall_No_Door_Dirt_Convex_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "bbfa24dc49630b84796ce0e007633de1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "f927151e0594386489da156c5983b2e6",
+      "renderers": [
+        {
+          "node": "EA_Rock_Flat_01a_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            }
+          ]
+        },
+        {
+          "node": "EA_Rock_Flat_01a_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            }
+          ]
+        },
+        {
+          "node": "EA_Rock_Flat_01a_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "0fc53a8c714252c4480c410716522202"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "58a1fb6b6ff81d246974492b1b4fc395",
+      "renderers": [
+        {
+          "node": "sloik.016_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "82bd87499dc00224293aa53b547f78d4"
+            }
+          ]
+        },
+        {
+          "node": "sloik.016_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "82bd87499dc00224293aa53b547f78d4"
+            }
+          ]
+        },
+        {
+          "node": "sloik.016_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "82bd87499dc00224293aa53b547f78d4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "95d807a1980b5758a7f448914dc7cc48",
+      "renderers": [
+        {
+          "node": "eyes",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "head",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "I_Broom",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "220b0b0c433657caa66e5efba85bbc4b"
+            }
+          ]
+        },
+        {
+          "node": "I_bucket",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "220b0b0c433657caa66e5efba85bbc4b"
+            }
+          ]
+        },
+        {
+          "node": "I_kettle_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "220b0b0c433657caa66e5efba85bbc4b"
+            }
+          ]
+        },
+        {
+          "node": "I_rake",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "220b0b0c433657caa66e5efba85bbc4b"
+            }
+          ]
+        },
+        {
+          "node": "teeth",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Bandana_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Bandana_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Bandana_02a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Dress_01",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Dress_02",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Dress_03",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Dress_04",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Hair_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Hair_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "e4168f192fd05730930bbaddcd5cef78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "b8e92f7d9c05521b942cb958d6620a75",
+      "renderers": [
+        {
+          "node": "corpse",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "eyes",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "head",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "I_mechanic_key",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4b9f33ec0c2154ba9513e781a7195691"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Axe_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4b9f33ec0c2154ba9513e781a7195691"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Box_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4b9f33ec0c2154ba9513e781a7195691"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Bucket_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4b9f33ec0c2154ba9513e781a7195691"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Hammer_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4b9f33ec0c2154ba9513e781a7195691"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Mug_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4b9f33ec0c2154ba9513e781a7195691"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Rake_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "4b9f33ec0c2154ba9513e781a7195691"
+            }
+          ]
+        },
+        {
+          "node": "teeth",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Beard_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Eyebrows_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Hair_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Hair_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Hut_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Hut_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Moustache_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Moustache_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Shirt_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Shoes_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Shoes_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Shoes_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Trousers_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Trousers_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_02a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_02b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_02c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "a6356d54bc46510b9a593fabeefad7ea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "66410cd0c5bb52041843c46959646505",
+      "renderers": [
+        {
+          "node": "eyes",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "head",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "I_Broom",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "da42542687cc23240b461b5e2267902b"
+            }
+          ]
+        },
+        {
+          "node": "I_bucket",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "da42542687cc23240b461b5e2267902b"
+            }
+          ]
+        },
+        {
+          "node": "I_kettle_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "da42542687cc23240b461b5e2267902b"
+            }
+          ]
+        },
+        {
+          "node": "I_rake",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "da42542687cc23240b461b5e2267902b"
+            }
+          ]
+        },
+        {
+          "node": "teeth",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Bandana_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Bandana_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Bandana_02a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Dress_01",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Dress_02",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Dress_03",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Dress_04",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Hair_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Female_Hair_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "89dfb1e0ac513104ea97517585c5ac42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "37e3e1c02c75a63418a756c102ec1122",
+      "renderers": [
+        {
+          "node": "corpse",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "eyes",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "head",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "I_mechanic_key",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b23312c9c83264a468683f2518e9edaa"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Axe_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b23312c9c83264a468683f2518e9edaa"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Box_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b23312c9c83264a468683f2518e9edaa"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Bucket_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b23312c9c83264a468683f2518e9edaa"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Hammer_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b23312c9c83264a468683f2518e9edaa"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Mug_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b23312c9c83264a468683f2518e9edaa"
+            }
+          ]
+        },
+        {
+          "node": "I_Villager_Rake_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b23312c9c83264a468683f2518e9edaa"
+            }
+          ]
+        },
+        {
+          "node": "teeth",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Beard_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Eyebrows_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Hair_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Hair_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Hut_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Hut_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Moustache_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Moustache_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Shirt_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Shoes_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Shoes_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Shoes_01c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Trousers_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Trousers_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_01a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_01b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_02a",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_02b",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        },
+        {
+          "node": "Villager_Male_Vest_02c",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "f2f3ac1ad7f4b1e49b497d09d8e31ff0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "a0106b9943f053b40b145b87544f7014",
+      "renderers": [
+        {
+          "node": "World_City_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "73e63edeb8e0f3e4cbcfa95f25c0e521"
+            }
+          ]
+        },
+        {
+          "node": "World_City_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b36e3ac49f69c084ab76ee2e24f1fad5"
+            }
+          ]
+        },
+        {
+          "node": "World_City_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "b36e3ac49f69c084ab76ee2e24f1fad5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "e0b1ba270c4bcce438dfe9a9d0fb20a2",
+      "renderers": [
+        {
+          "node": "EA_Ground_Worksite_LOD0",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "70222fa7462e853438eade8e321f7127"
+            }
+          ]
+        },
+        {
+          "node": "EA_Ground_Worksite_LOD1",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "70222fa7462e853438eade8e321f7127"
+            }
+          ]
+        },
+        {
+          "node": "EA_Ground_Worksite_LOD2",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "70222fa7462e853438eade8e321f7127"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "8042e986b675e8b4498ddfbfd8bfe18b",
+      "renderers": [
+        {
+          "node": "",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "9b9514584cc472849a85a271798952c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "d7f640fce37454746ad5c145ce813b59",
+      "renderers": [
+        {
+          "node": "",
+          "slots": [
+            {
+              "slot": 0,
+              "materialGuid": "9b9514584cc472849a85a271798952c5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "3d542277a04bde64ab169265233100b9",
+      "renderers": [
+        {
+          "node": "Character_2_2_1",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "ffd803f505f97874b9e88c91fbd7a1d6",
+      "renderers": [
+        {
+          "node": "Character_2_2_10",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "524891cdae091fe48b45e2058a4d1b31",
+      "renderers": [
+        {
+          "node": "Character_2_2_11",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "b465fcf956631484abad9d2958fd26cf",
+      "renderers": [
+        {
+          "node": "Character_2_2_2",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "580ae4b74d7672348ad3ab51a2149c2e",
+      "renderers": [
+        {
+          "node": "Character_2_2_3",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "37a4b6f656eefdf4faeb9530eb629490",
+      "renderers": [
+        {
+          "node": "Character_2_2_4",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "5e9949da45d9f734ebca6c24cae6e4bd",
+      "renderers": [
+        {
+          "node": "Character_2_2_5",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "038d139049544654cb3460f0fd6b5c71",
+      "renderers": [
+        {
+          "node": "Character_2_2_7",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "e4e991ab9c246a24183b84abf54309d7",
+      "renderers": [
+        {
+          "node": "Character_2_2_8",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "fcbbb103efc09e647a09c28ad9c598a7",
+      "renderers": [
+        {
+          "node": "Character_2_2_9",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "a15a78ba44b598346bc47d5b654c0079",
+      "renderers": [
+        {
+          "node": "Character_2_3_1",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "be269e99450e04d4294cee22ad30e273",
+      "renderers": [
+        {
+          "node": "Character_2_3_2",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "18aec4c3f50157540a6c564dfb165b02",
+      "renderers": [
+        {
+          "node": "Character_2_3_3",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "b8db0a8c2904a1042884bd5e84789d6d",
+      "renderers": [
+        {
+          "node": "Character_2_3_4",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "eae9fb63e0659bb4e82f16764bc73c66",
+      "renderers": [
+        {
+          "node": "Character_2_3_5",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "00e5f078290d5503b67632b043279a5d",
+      "renderers": [
+        {
+          "node": "Character_2_2_1",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "602dfc7e80eb5eaeb79e50c063ea6987",
+      "renderers": [
+        {
+          "node": "Character_2_2_10",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "07347f4ae6c95d2680949196ade53e7d",
+      "renderers": [
+        {
+          "node": "Character_2_2_11",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "58857485fe2b5b72a267adebc073b02b",
+      "renderers": [
+        {
+          "node": "Character_2_2_2",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "e405357e518552c18749d20cc5949614",
+      "renderers": [
+        {
+          "node": "Character_2_2_3",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "28ea46b734db5fc2903890c5ecea7363",
+      "renderers": [
+        {
+          "node": "Character_2_2_4",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "5e36803b33ab55738321cdeb3c744e58",
+      "renderers": [
+        {
+          "node": "Character_2_2_5",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "5ef3c0cb4d13570d9f6647cf83fc443f",
+      "renderers": [
+        {
+          "node": "Character_2_2_7",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "4b29af7c1b60582e829f0bc6acac5f2a",
+      "renderers": [
+        {
+          "node": "Character_2_2_8",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "a8642ce3b65e552694f7c9971d09f9b8",
+      "renderers": [
+        {
+          "node": "Character_2_2_9",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "5c5a3445dba259f2a945868968871a6c",
+      "renderers": [
+        {
+          "node": "Character_2_3_1",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "79b03944fb3058e9bc9962cf31233318",
+      "renderers": [
+        {
+          "node": "Character_2_3_2",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "c36277efc986522195e8bc6c5fbc8f18",
+      "renderers": [
+        {
+          "node": "Character_2_3_3",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "3734fce906d654e9beeb0bf8143aaf40",
+      "renderers": [
+        {
+          "node": "Character_2_3_4",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "bda260747c8054759760e30816df3eef",
+      "renderers": [
+        {
+          "node": "Character_2_3_5",
+          "slots": [
+            {
+              "slot": 1,
+              "materialGuid": "fc5bf83c5e4950b18fa8618b606dbc51"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8c65dbd0e74b551c9de3efb45db4072d
+ModelImporter:
+  serializedVersion: 24501
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Signs 1.001"
+    second: {fileID: 2100000, guid: bcc809aae5ff5768b707eb232eb49a7e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+    searchTexturesGlobally: 1

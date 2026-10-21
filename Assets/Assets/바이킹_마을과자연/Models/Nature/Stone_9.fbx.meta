@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bce04bb6dc3756f6a9a502707cc04e71
+ModelImporter:
+  serializedVersion: 24501
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Stones_1"
+    second: {fileID: 2100000, guid: 4fa8446af28752e9ad889970093b69b1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+    searchTexturesGlobally: 1

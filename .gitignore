@@ -1,0 +1,186 @@
+# Unity caches, local editor state, and build output.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Bb]in/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Cc]rashReports/
+/[Aa]rtifacts/
+
+# Original asset archives and AI-generated output are stored separately.
+/LowPolyAssets/
+/GeneratedAssets/
+
+# IDE state and Unity-generated solution/project files.
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+*.pdb
+*.mdb
+*.tmp
+*.log
+*.bak
+*.orig
+*.rej
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+
+# Binary resources and distributable packages, wherever they are placed.
+*.fbx
+*.glb
+*.gltf
+*.obj
+*.blend
+*.blend1
+*.blend2
+*.max
+*.ma
+*.mb
+*.3ds
+*.dae
+*.stl
+*.abc
+*.usd
+*.usda
+*.usdc
+*.usdz
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.psd
+*.psb
+*.tif
+*.tiff
+*.bmp
+*.gif
+*.webp
+*.dds
+*.ktx
+*.ktx2
+*.hdr
+*.exr
+*.ico
+*.svg
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.aiff
+*.aif
+*.m4a
+*.mp4
+*.mov
+*.avi
+*.webm
+*.mkv
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.dll
+*.exe
+*.so
+*.dylib
+*.lib
+*.a
+*.o
+*.apk
+*.aab
+*.ipa
+*.bytes
+*.raw
+*.bin
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.tgz
+*.unitypackage
+
+# Assets uses an allowlist: source code, text-based Unity objects, and metadata.
+# Re-include directories so Git can reach allowed files at any folder depth.
+/Assets/**/*
+!/Assets/**/
+!/Assets/**/*.cs
+!/Assets/**/*.asmdef
+!/Assets/**/*.asmref
+!/Assets/**/*.shader
+!/Assets/**/*.hlsl
+!/Assets/**/*.cginc
+!/Assets/**/*.compute
+!/Assets/**/*.raytrace
+!/Assets/**/*.shadergraph
+!/Assets/**/*.shadersubgraph
+!/Assets/**/*.vfx
+!/Assets/**/*.uss
+!/Assets/**/*.uxml
+!/Assets/**/*.inputactions
+!/Assets/**/*.yaml
+!/Assets/**/*.yml
+!/Assets/**/*.unity
+!/Assets/**/*.prefab
+!/Assets/**/*.asset
+!/Assets/**/*.mat
+!/Assets/**/*.anim
+!/Assets/**/*.controller
+!/Assets/**/*.overridecontroller
+!/Assets/**/*.playable
+!/Assets/**/*.terrainlayer
+!/Assets/**/*.mask
+!/Assets/**/*.physicmaterial
+!/Assets/**/*.physicsmaterial2d
+!/Assets/**/*.preset
+!/Assets/**/*.guiskin
+!/Assets/**/*.rendertexture
+!/Assets/**/*.shadervariants
+
+# Metadata preserves GUIDs and import settings, including excluded resources.
+# Restore the separate binary resources before opening a fresh Unity checkout.
+!/Assets/**/*.meta
+
+# Recovery scenes are local editor output, even though their contents are YAML.
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# .asset is a mixed text/binary extension. These 15 files were checked as binary.
+# Gitignore cannot inspect file contents; add new binary .asset paths here too.
+/Assets/Assets/농장_초원과목장/Terrain/TerrainCollider.asset
+/Assets/Assets/농장_초원과목장/Terrain/TerrainData_0901d65c-34da-46a1-b81d-701f6b37502f.asset
+/Assets/Assets/농장_초원과목장/Terrain/TerrainData_7ade1069-3b10-4975-953d-04490cfad788.asset
+/Assets/Assets/농장_초원과목장/Terrain/TerrainData_dbafc843-80c4-4f68-ba12-e34f55b66dc1.asset
+/Assets/Assets/도시_구도심과안뜰/Terrain/Terrain.asset
+/Assets/Assets/바이킹_마을과자연/Terrain/Terrain 2.asset
+/Assets/Assets/바이킹_마을과자연/Terrain/Terrain Data.asset
+/Assets/Assets/사막_협곡환경/Terrain/Desert Terrain Data.asset
+/Assets/Assets/자연_우드랜드숲/Terrain/EA01_Terrain_v1.asset
+/Assets/Assets/자연_우드랜드숲/Terrain/EA01_Terrain_v2.asset
+/Assets/Assets/자연_우드랜드숲/Terrain/New Terrain WoodLand.asset
+/Assets/Assets/자연_작은나무와바위/Terrain/New Terrain 2.asset
+/Assets/Assets/중세_모듈형마을과주민/Terrain/Terrain Town.asset
+/Assets/Assets/중세_모듈형마을과주민/Terrain/Terrain_0_0-20181120-154420.asset
+/Assets/Assets/중세_모듈형마을과주민/Terrain/Terrain_World.asset
+
+# Import diagnostics, source evidence, and backups are local working files.
+# The two catalogues below are required by LowPolyModelMaterialPostprocessor.cs.
+/Tools/AssetImport/*
+!/Tools/AssetImport/model-material-bindings.json
+!/Tools/AssetImport/model-renderer-material-bindings.json

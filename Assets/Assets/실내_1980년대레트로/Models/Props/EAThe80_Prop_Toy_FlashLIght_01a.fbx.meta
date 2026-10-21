@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 90d22fef42efe0042ade15a549c5f8d2
+ModelImporter:
+  serializedVersion: 24600
+  internalIDToNameTable:
+  - first:
+      74: -8043125379353321085
+    second: EAThe80_Prop_Toy_FlashLIght_01a|EAThe80_Prop_Skateboard_02aAction
+  - first:
+      74: -5391817833806282479
+    second: EAThe80_Prop_Toy_FlashLIght_01a|EAThe80_Prop_Toy_Areoplan_01aAction
+  - first:
+      74: -6281497619872878601
+    second: EAThe80_Prop_Toy_FlashLIght_01a|EAThe80_Prop_Toy_FlashLIght_01aAction
+  - first:
+      74: 432371451977925108
+    second: EAThe80_Prop_Toy_FlashLIght_01a|EAThe80_Prop_Toy_FlashLIght_01aAction.001
+  - first:
+      74: -7465660186474764175
+    second: EAThe80_Prop_Toy_FlashLIght_01a|EAThe80_Prop_WaterPistol_01aAction
+  - first:
+      74: 807681053647146472
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD0.001|Take 001|BaseLayer
+  - first:
+      74: 5089901272551572870
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3849071365326428347
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 1003267846700711275
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 6334052416855378254
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2527349304538283677
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD1.002|Take 001|BaseLayer.001
+  - first:
+      74: 8935561821281141556
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 5173447391633293746
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -1718081284978340551
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 1890637408030524964
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD2.002|Take 001|BaseLayer.001
+  - first:
+      74: 894366923029977624
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: 7016974677717171560
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -110311269839993803
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -693085038869829269
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD3.002|Take 001|BaseLayer.001
+  - first:
+      74: -4161439806225207790
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: -112102928754008888
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_01_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -5663251325397960891
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -7684818776943218225
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2088665363259006548
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -4361313310567687213
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 6027592088109642956
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: 9081582212210072868
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2327402941366282268
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 4197241212081002821
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: 724892178966820653
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -1520806043946124966
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -6202518573864868391
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD3|Take 001|BaseLayer
+  - first:
+      74: -7888960443874057962
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_02_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 6568758046847472651
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -7612488577414996533
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: -4862194676995768611
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: 2285969151436854489
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -8712535864474195619
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2561871453587029242
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 4200860063359390882
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 6974330830076859993
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -7246186914517635847
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -8873278082703696776
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 6414548195362498071
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD3|Take 001|BaseLayer
+  - first:
+      74: 8313219255653913621
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_03_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 3520770995400399629
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -809063460544138076
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: -2458743324942240131
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD0|Take 001|BaseLayer.001
+  - first:
+      74: -2765173563567270817
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 4636200927786507123
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -2672986497258720667
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -4196705625467180900
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -3949992212621622046
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: -637815387270439675
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 2141214148035585596
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: -7503547476571114263
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD3|Take 001|BaseLayer
+  - first:
+      74: -9222802152959250247
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_04_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: -8014146689923123984
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -8690296465827922699
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -1582184857765701261
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5804227198305276157
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7395534572868326885
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 4912315355262045929
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -7227123010835673913
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -7097818289258151812
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -619505306022313879
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 5679311464347445708
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 7317892784089998937
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD3|Take 001|BaseLayer
+  - first:
+      74: -3998070210858793921
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_05_LOD3|Take 001|BaseLayer.001
+  - first:
+      74: 8706480473783427256
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 1032456843722027426
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_01_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: -1762960678925509434
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 5392555208952683055
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -7099263502738133025
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 4670405634114544186
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_01_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -386782962350470425
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 8022132088083836313
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -2247282000607781452
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_01_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 5073644129910914581
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_02_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -7848569577300582250
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_02_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 4092124871300767794
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_02_LOD0|Take 001|BaseLayer
+  - first:
+      74: -5262418508426401960
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_02_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: 8187005550096029709
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_02_LOD1|Take 001|BaseLayer
+  - first:
+      74: -1579845680648057250
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_02_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 866069952334741053
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_02_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -4719860103734826438
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_02_LOD2|Take 001|BaseLayer
+  - first:
+      74: -2790975559554795351
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_02_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: -4453765731564824074
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_03_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -2512587477639678208
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_03_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 7856100085586080457
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_03_LOD0|Take 001|BaseLayer
+  - first:
+      74: 471631677173164387
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_03_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -3292161639157004318
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_03_LOD1|Take 001|BaseLayer
+  - first:
+      74: -5700511012592529088
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_03_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: 2696068555174219179
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_03_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -6936879955390925764
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_03_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6621144738738526411
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_03_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 4769128494777754531
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_04_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: -4809575216360873891
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_04_LOD0.002|Take 001|BaseLayer.001
+  - first:
+      74: 3374131615183825245
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_04_LOD0|Take 001|BaseLayer
+  - first:
+      74: 2141257117356716150
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_04_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -155656144316515197
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_04_LOD1|Take 001|BaseLayer
+  - first:
+      74: -6826410716726905821
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_04_LOD1|Take 001|BaseLayer.001
+  - first:
+      74: -2538248916879172609
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_04_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -8164886704405323361
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_04_LOD2|Take 001|BaseLayer
+  - first:
+      74: 8656921275638993665
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_04_LOD2|Take 001|BaseLayer.001
+  - first:
+      74: 3978330912428685397
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_05_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 3496545652068005231
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_05_LOD0|Take 001|BaseLayer
+  - first:
+      74: 6519134614563079750
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_05_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -2549608519068035411
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_05_LOD1|Take 001|BaseLayer
+  - first:
+      74: 1679017943756959051
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_05_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: -1666591429962172264
+    second: EAThe80_Prop_Toy_FlashLIght_01a|rock_small_05_LOD2|Take 001|BaseLayer
+  - first:
+      74: -5517416866293645460
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD0.002|Take 001|BaseLayer
+  - first:
+      74: 2028818560328592782
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD0|Take 001|BaseLayer
+  - first:
+      74: 3632473248145733710
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD1.002|Take 001|BaseLayer
+  - first:
+      74: -84099438241549991
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD1|Take 001|BaseLayer
+  - first:
+      74: 167186270968556141
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD2.002|Take 001|BaseLayer
+  - first:
+      74: 2445346565015808076
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD2|Take 001|BaseLayer
+  - first:
+      74: -6413555383694214778
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD3.002|Take 001|BaseLayer
+  - first:
+      74: 275976570181995669
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD3|Take 001|BaseLayer
+  - first:
+      74: 4865787197781984293
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD4.002|Take 001|BaseLayer
+  - first:
+      74: 2049406410589646344
+    second: EAThe80_Prop_Toy_FlashLIght_01a|wall_rocks_01_LOD4|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EAThe80_Texture
+    second: {fileID: 2100000, guid: c04f37cf5a52a9942a20d54fba639f59, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    preBakeConvexCollisionMesh: 0
+    preBakeTriangleCollisionMesh: 0
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 1
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
